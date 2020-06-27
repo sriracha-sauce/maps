@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="https://i.imgur.com/LWvUIho.jpg"
+		mapAssetLocal="./images/lafindea/lafindea_new.jpg"
+		mapAssetWidth="4096"
+		mapAssetHeight="3072"
+		mapMaxZoomMultiplier="2.3"
+		unitName="mi"
+		unitsAcross="12450.5"
+		unitsPerGrid="480"
+		gridType="hex"
+	/>
+	<regions>
+		<region label="Medios" south="1771.83" west="2507.06" north="2325.12" east="3190.97" />
+	</regions>
+	<layers>
+		<layer name="LaFindea" type="basemap" visibility="true" color="" />
+		<layer name="Locations" type="overlay" visibility="true" color="brown" />
+	</layers>
+	<labels>
+		<label positionY="1983.1" positionX="2746.62">
+			<text><![CDATA[### Medios]]></text>
+		</label>
+	</labels>
+	<nodes>
+		<node group="0" label="Medinos" positionY="1966.64" positionX="2924.58" shape="pin-large" symbol="crested-helmet" image="https://i.imgur.com/V3WGTuk.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Medinos has [[vanished|ruinsofmedinos]] and leaves a vortex of magical chaos in the middle of the sea. The fall and transformation of Medinos creates a power vortex in the world which other city states are quick to take advantage of to fill the space…]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Jean-Léon Gérôme" url="https://en.wikipedia.org/wiki/Jean-Leon_Gerome" />
+			</attributions>
+		</node>
+		<node group="0" label="Thebas" positionY="1852.1" positionX="3051.28" shape="circle-large" symbol="anubis" image="https://i.imgur.com/6qKJLK0.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Thebas, home of the god king known to all as the pharaoh. Thebas is a major producer of grain in the known world, producing enough food to sustain the entire population of Medios. Thebas's prime location along the banks of the river Nilos has induced massive growth. What was once a small settlement is a large, sprawling metropolis today.
+
+				Thebas views slaves as home makers, tending to all house chores. No slave would ever be given the honor to create anything meant to honor the pharaoh or gods. Long ago, Thebas practiced a form of constitutional monarchy where representatives would write laws to dictate the role of the ruling classes, including priests and predynastic kings, but such restrictions are absent for the pharoah who is regarded as divine.
+
+				### Magic
+				Magic is rare in the world but Thebas is at the forefront of major advances in the field of magic and astronomy. The city-state is first in magical advancement and fourth in technological advancement.
+
+				Magic has found its way into religious rites and rituals. Higher forms of magic are reserved for royalty and high priests.
+
+				### Art
+				Theban art is based on a variety of symbolic pictures called hieroglyphs, which they use as a written language. These hieroglyphs decorate palaces, tombs, and places of worship and are used to tell stories to memorialize the deeds of great kings and gods.
+
+				![Desert Flower](https://i.imgur.com/JbBA2gu.jpg)
+				## Desert Flower
+				In their time with Valius, their slave master, the party encounters a vampire who is determined to topple Medinos. In her employ is a lycanthrope named Fatima who is amongst the attackers who lie siege to the Academy. The vampire, whose name is unknown, evades the party several times, including a confrontation on an airship where Sister Sunyee loses her life.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Martin Deschambault" url="https://www.artstation.com/dechambo" />
+				<attribution name="Antony Carlyon" url="https://www.artstation.com/antz" />
+			</attributions>
+		</node>
+		<node group="0" label="Redhi-Lonn" positionY="2222.52" positionX="2878.04" shape="circle-large" symbol="sickle" image="https://i.imgur.com/aPFdgBq.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[The world of Elves Is steeped in Magic, Myth and Mystery. Because of their history with humans, Elves strive to stay hidden from others and tend to keep to themselves.
+
+				### Redhi-Lonn Elves
+				The elves of Redhi-Lonn gear their lives toward survival in the woodlands, hence, they are more muscular, florid, and tall compared to their cousins. They have blonde to coppery red hair and brown and green eyes. The average male stands six feet tall and the females at just below six feet.
+
+				They wear simple clothing made of leathers and fibers found in the forest of Dolen Calen. The clothes allow them to move freely through the trees without being seen. The elves also dye their clothes to match the seasons, using berries, leaves, and other pigments.
+
+				Often seen as emotional to outsiders, the Redhi-Lonn elves follow their hearts, trusting instinct over logic. Their gut feeling is generally what will guide them in their decisions. This serves them well in the forest, where intuition and strength are crucial. Independent and free, Redhi-lonn elves and not welcoming of outsiders, usually seeing them as uptight and disrupting. Any outsider who enters Dolen Calen will most likely have an invisible escort until they leave.
+
+				### Redhi-Lonn Humans
+				The humans of Pilos are very much like their elven brothers. They have olive to copper complexions and brown to hazel eyes. An average adult stands six feet tall. Their hair colors tend to be raven, brown, and red, though blonde has been seen from time to time.
+
+				The humans tend to be just as emotional in their actions as their elven brothers, giving into instinct rather than a thought out response.
+
+				The humans of Pilos live longer than other humans of LaFindea, growing twice as old as the standard human.
+
+				### Magic
+				Magic is as natural as breathing for the people of Redhi-Lonn. Every inhabitant can utilize at least one druidic cantrip. Elves cast a wide variety of cantrips each day, but humans seem to only be able to *shape wood*. On rare occasion, a human may be gifted with the ability to *druidcraft* as well.
+
+				### Art
+				The art of Redhi-Lonn is displayed most commonly as tattoos. The images used are inspired by the seasons and each tattoo is designed specifically to each individual. Woodworking and leathercraft are other talents found in Redhi-Lonn. Weapons and armor are decorated with beautiful, celtic-like designs and colored to help blend into the woodland environment. More complicated crafts take days and pass through many hands before being completed. These crafts are most often infused with nature magic and the methods of their creation are highly guarded.
+
+				### Law
+				The archdruids act as the creators and keepers of the law. The laws that they produce are ones that allow nature to flow easily and efficiently, allowing the forest to flourish with an abundance of flora and fauna. If the balance is tipped, they quickly create laws to re-establish it. All laws have a limit in which they are sustained and once that limit has been reached, the law is removed.
+
+				Though they also serve as enforcers the arch-druids have almost never had to serve in this capacity. Redhi-Lonn folk who violate these laws are taken to before the archdruids, who then decide an appropriate contribution toward the law. All members willingly takes on the task, for they understand the importance of regaining the balance.
+
+				Aside from the laws passed by the druids, the people of Redhi-Lonn are free and independent, much like the wild.
+
+				[Click to see city map.](./?campaign=lafindea&map=dolen_calen)]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Sylvain Sarrailh" url="https://www.artstation.com/tohad" />
+			</attributions>
+		</node>
+		<node group="0" label="Ruins of Medinos" positionY="2220.77" positionX="2844.52" shape="pin-large" symbol="ancient-columns" image="https://i.imgur.com/qTSehuR.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[The world of humans can be confusing to other races, because even when you can find trace similarities, no human civilization is close to one another.
+
+				## Republic of Medinos (Destroyed)
+				*The information below is no longer relevant, but preserved for the record.*
+
+				Medinos, otherwise known as the City of Gold, is a city-state in the middle of the Medios sea. To those looking from southern coasts speak of the luminous light emanating from the island at night. Medinos is the center of all trade in the known human world, and it is considered the religious capital of the world. No matter how small a sect, one can still find a presence inside the city walls. The secular inhabitants of Medinos consider it a beautiful city where art flourishes and science and magic leaps ahead of all other city-states.
+
+				### Magic
+				Magic is extremely rare throughout the world. The same can be said for the City of Medinos. Though rare, Medinos is third overall in magical advancement.
+
+				### Technology
+				Medinos is first overall in technology. The city is rivaled by the city-state of [[Darus]] in the far east.
+
+				### Art
+				Medinos's art is among the most beautiful in the world, particularly because their artists focus on beauty itself. Meaning can be beautiful, so symbolism and purpose is not lost on the artists of Medinos, but depressing images and ideas are avoided. Impressionism and romanticism are favored painting types, especially those with focus on the naked body.
+
+				Music, theater, and other forms of performance art focus on comedic and ironic themes. Beautiful heroes fight for love of country and conquest, which are often synonymous to Medinites. Villains are simple, steal beautiful men and women for their own. These victims are typically the love interest of the hero. The theme of overthrowing the republic is common with Medinite fictional villains. Songs are about love, beauty and heroic deeds, or the grace of the gods. Every story has a happy beginning and a happy end.
+
+				### Law
+				Medinos strives to give power to its people, by allowing it’s citizens to vote laws into the books. As such, the citizens elect representatives to act in the best interest of the people. The laws of Medinos are separated by state, slave, and citizen.
+
+				### Laws that Apply to the State
+				* The city must always be lit, to avoid crime
+				* All people must be fed
+				* All people must have a roof over their head
+				* Safety must be provided by the state
+
+				### Laws that Apply to Citizens
+				* All citizens must join the military at age 12
+				* Citizenship is granted at age 12
+				* All citizens are eligible for draft during wartime
+				* Military service ends at age 60
+				* Innocent until proven guilty justice system. Perjury, however, is considered proof of guilt for all allegations.
+				* Arranged marriages are legal, and the preferred way of marriage
+				* Marriage is legal for all genders
+				* Polygamy is illegal
+				* Multiple sexual partners outside the bonds of marriage is legal for the head of house. For anyone other than the head of house, multiple sexual partners is considered treasonous to the family and the head of house may disown the offending member.
+
+				### Laws that Apply to Slaves
+				* Slaves must be collared
+				* Innocence must be proven by owner
+				* Sexual rights belong to their owner
+				* Slaves have the right to be treated well, as long as they are not insubordinate towards their owners
+				* Royalty may not be enslaved, proof must be submitted before a judge
+				* Skilled slaves must be paid for services rendered
+
+				### Religion
+				Priests and priestesses control the temples. Holy magic is rare and is considered a blessing from the gods for those who can use it.
+
+				### Trade
+				Medinos often trades tech for magic with other City States via the sea. Medinos merchants have little need to travel off the island, as most trade goods come to the city.
+
+				[Click to see city map.](./?campaign=lafindea&map=dolen_calen)]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Henrieta Vajsabelova" url="https://www.artstation.com/siriusbudha" />
+			</attributions>
+		</node>
+		<node group="0" label="Mount LaFindea" positionY="2236.44" positionX="2787.5" shape="pin-large" symbol="mountain" staticLabel="true" />
+		<node group="0" label="Zeutos" positionY="2071.23" positionX="2953.37" shape="circle-large" symbol="greek-temple" staticLabel="true" />
+		<node group="0" label="Remos" positionY="2071.23" positionX="2857.88" shape="circle-large" symbol="roman-shield" staticLabel="true" />
+		<node group="0" label="Darus" positionY="1965.6" positionX="3131.76" shape="circle-large" symbol="babel" staticLabel="true" />
+		<node group="0" label="Didos" positionY="1870.81" positionX="2659.97" shape="circle-large" symbol="trireme" staticLabel="true" />
+		<node group="0" label="Sphania" positionY="2176.42" positionX="2540.91" shape="circle-large" symbol="bull-horns" staticLabel="true" />
+		<node group="0" label="地狱 Diyu" positionY="2219.14" positionX="95.42" shape="circle-large" symbol="spider-black-widow" image="https://i.imgur.com/qA4b9CG.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Far east of Medios in the land of 神州 /// Shénzhou, people call themselves the 人 /// Rén. In this place, the dark elves or the 恶人 /// Erén, literally meaning "the wicked", never rise to be a formal threat against humanity. Their brethren the elves above-ground are driven to the brink of extinction by war. Mankind is protected by the Wuxia, mortal heroes, and the celestial Xianxia. Unlike the drow in the West, the Erén have no Spider Queen and no mighty gods. The drow recede to 地狱 /// Dìyù or Underdark where the Rén cannot easily reach them.
+
+				![Eren](https://i.imgur.com/8BHiUUO.jpg)
+				## 恶人 /// Erén
+				Nyx is born in Dìyù, deep underground. She is an orphan, second youngest in a 帮 /// clutch of twelve dark elf siblings. Her memories of early childhood and her mother are buried and unknown to her. She is taken from Dìyù, enslaved, and transported first to Kemet, the land of blood and sand. Thebas in Kemet is where Nyx lives out most of her adolescence before she is brought to Medinos...
+
+				Drow culture is militaristic by necessity. Children, especially orphans, are prime candidates to be scouts and spies. The regional drow military complex is separated into 荫蜘蛛 /// Yinzhizhu (gloom spiders) and 海蜘蛛 /// Haizhizhu (sea spiders) both of whom exert strong control over drow politics.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Matheus Graef" url="https://www.artstation.com/matheusgraef" />
+				<attribution name="Martin Sobr" url="https://www.artstation.com/martinsobr" />
+			</attributions>
+		</node>
+		<node group="0" label="扶桑 Fuso" positionY="2052.7" positionX="252.98" shape="circle-large" symbol="cherry-blossom" image="https://i.imgur.com/yD34HY6.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Working as a sawbone in the Fighting Pits of [[Thebas]], Nyx meets her arcane sensei – a high elf gladiator slave named Ako Akai. Ako is from the island of 扶桑 /// Fuso, which he refers to as 日本 /// Nihon in his native tongue. Elven Nihonjin and Rén and even Erén are in historical contact, and share many linguistic concepts.
+
+				Ako's beliefs have a strong influence on Nyx, who is young and impressionable. Ako teaches her the secret of ブレードソング /// Bladesong, which is forbidden knowledge for a dark elf.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Eddie Mendoza" url="https://www.artstation.com/eddie" />
+			</attributions>
+		</node>
+	</nodes>
+	<paths>
+		<path group="0" route="Zeutos-Remos Conflict Zone" isPolygon="true" polyColor="red" symbol="rally-the-troops" symbolSizePx="40" symLocationY="2138" symLocationX="2885.5">
+			<waypoint label="Z-R CZ 1" waypoint="true" positionY="2103.25" positionX="2869.33" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 2" waypoint="true" positionY="2129.8" positionX="2853.66" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 3" waypoint="true" positionY="2149.82" positionX="2856.28" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 4" waypoint="true" positionY="2170.72" positionX="2874.12" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 5" waypoint="true" positionY="2171.15" positionX="2893.27" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 6" waypoint="true" positionY="2164.62" positionX="2907.64" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 7" waypoint="true" positionY="2135.03" positionX="2923.74" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 8" waypoint="true" positionY="2111.09" positionX="2911.12" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 9" waypoint="true" positionY="2110.21" positionX="2891.53" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Z-R CZ 10" waypoint="true" positionY="2109.34" positionX="2878.04" shape="none" symbol="" staticLabel="false" />
+		</path>
+	</paths>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

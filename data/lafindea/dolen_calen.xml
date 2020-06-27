@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="https://i.imgur.com/2t2NxLq.jpg"
+		mapAssetLocal="./images/lafindea/dolen_calen.jpg"
+		mapAssetWidth="4096"
+		mapAssetHeight="2897"
+		mapMaxZoomMultiplier="1.6"
+		unitName="ft"
+		unitsAcross="192000"
+		unitsPerGrid="2500"
+		gridType="hex"
+		gridColor="greenLight"
+		gridOpacity="0.2"
+		thetaX="181.5"
+		thetaY="0"
+		thetaZ="0"
+		perspectiveX="2048"
+		perspectiveY="2897"
+		perspectiveZ="-300"		
+	/>
+	<labels>
+		<label positionY="1914" positionX="2624"><text><![CDATA[### Redhi-Lonn]]></text></label>
+		<label positionY="2076" positionX="2086"><text><![CDATA[### Ruins of Medinos]]></text></label>
+		<label positionY="1087.64" positionX="1843.01"><text><![CDATA[### Pilos]]></text></label>
+		<label positionY="1780" positionX="264"><text><![CDATA[### Mount]]></text></label>
+		<label positionY="1690" positionX="264"><text><![CDATA[### LaFindea]]></text></label>
+	</labels>
+	<layers>
+		<layer name="Dolen Calen" type="basemap" visibility="true" color="" />
+		<layer name="Locations" type="overlay" visibility="true" color="red" />
+	</layers>
+	<nodes>
+		<node group="0" label="Redhi-Lonn" positionY="2430" positionX="2602" shape="pin-large" symbol="sickle" image="https://i.imgur.com/aPFdgBq.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The world of Elves Is steeped in Magic, Myth and Mystery. Because of their history with humans, Elves strive to stay hidden from others and tend to keep to themselves.
+
+				### Redhi-Lonn Elves
+				The elves of Redhi-Lonn gear their lives toward survival in the woodlands, hence, they are more muscular, florid, and tall compared to their cousins. They have blonde to coppery red hair and brown and green eyes. The average male stands six feet tall and the females at just below six feet.
+
+				They wear simple clothing made of leathers and fibers found in the forest of Dolen Calen. The clothes allow them to move freely through the trees without being seen. The elves also dye their clothes to match the seasons, using berries, leaves, and other pigments.
+
+				Often seen as emotional to outsiders, the Redhi-Lonn elves follow their hearts, trusting instinct over logic. Their gut feeling is generally what will guide them in their decisions. This serves them well in the forest, where intuition and strength are crucial. Independent and free, Redhi-lonn elves and not welcoming of outsiders, usually seeing them as uptight and disrupting. Any outsider who enters Dolen Calen will most likely have an invisible escort until they leave.
+
+				### Magic
+				Magic is as natural as breathing for the people of Redhi-Lonn. Every inhabitant can utilize at least one druidic cantrip. Elves cast a wide variety of cantrips each day, but humans seem to only be able to *shape wood*. On rare occasion, a human may be gifted with the ability to *druidcraft* as well.
+
+				### Art
+				The art of Redhi-Lonn is displayed most commonly as tattoos. The images used are inspired by the seasons and each tattoo is designed specifically to each individual. Woodworking and leathercraft are other talents found in Redhi-Lonn. Weapons and armor are decorated with beautiful, celtic-like designs and colored to help blend into the woodland environment. More complicated crafts take days and pass through many hands before being completed. These crafts are most often infused with nature magic and the methods of their creation are highly guarded.
+
+				### Law
+				The archdruids act as the creators and keepers of the law. The laws that they produce are ones that allow nature to flow easily and efficiently, allowing the forest to flourish with an abundance of flora and fauna. If the balance is tipped, they quickly create laws to re-establish it. All laws have a limit in which they are sustained and once that limit has been reached, the law is removed.
+
+				Though they also serve as enforcers the arch-druids have almost never had to serve in this capacity. Redhi-Lonn folk who violate these laws are taken to before the archdruids, who then decide an appropriate contribution toward the law. All members willingly takes on the task, for they understand the importance of regaining the balance.
+
+				Aside from the laws passed by the druids, the people of Redhi-Lonn are free and independent, much like the wild.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Sylvain Sarrailh" url="https://www.artstation.com/tohad" />
+			</attributions>
+		</node>
+		<node group="0" label="Ruins of Medinos" positionY="2362" positionX="2080" shape="pin-large" symbol="ancient-columns" image="https://i.imgur.com/qTSehuR.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The world of humans can be confusing to other races, because even when you can find trace similarities, no human civilization is close to one another.
+
+				## Republic of Medinos (Destroyed)
+				*The information below is no longer relevant, but preserved for the record.*
+
+				Medinos, otherwise known as the City of Gold, is a city-state in the middle of the Medios sea. To those looking from southern coasts speak of the luminous light emanating from the island at night. Medinos is the center of all trade in the known human world, and it is considered the religious capital of the world. No matter how small a sect, one can still find a presence inside the city walls. The secular inhabitants of Medinos consider it a beautiful city where art flourishes and science and magic leaps ahead of all other city-states.
+
+				### Magic
+				Magic is extremely rare throughout the world. The same can be said for the City of Medinos. Though rare, Medinos is third overall in magical advancement.
+
+				### Technology
+				Medinos is first overall in technology. The city is rivaled by the city-state of [[Darus]](lafindea) in the far east.
+
+				### Art
+				Medinos's art is among the most beautiful in the world, particularly because their artists focus on beauty itself. Meaning can be beautiful, so symbolism and purpose is not lost on the artists of Medinos, but depressing images and ideas are avoided. Impressionism and romanticism are favored painting types, especially those with focus on the naked body.
+
+				Music, theater, and other forms of performance art focus on comedic and ironic themes. Beautiful heroes fight for love of country and conquest, which are often synonymous to Medinites. Villains are simple, steal beautiful men and women for their own. These victims are typically the love interest of the hero. The theme of overthrowing the republic is common with Medinite fictional villains. Songs are about love, beauty and heroic deeds, or the grace of the gods. Every story has a happy beginning and a happy end.
+
+				### Law
+				Medinos strives to give power to its people, by allowing it’s citizens to vote laws into the books. As such, the citizens elect representatives to act in the best interest of the people. The laws of Medinos are separated by state, slave, and citizen.
+
+				### Laws that Apply to the State
+				* The city must always be lit, to avoid crime
+				* All people must be fed
+				* All people must have a roof over their head
+				* Safety must be provided by the state
+
+				### Laws that Apply to Citizens
+				* All citizens must join the military at age 12
+				* Citizenship is granted at age 12
+				* All citizens are eligible for draft during wartime
+				* Military service ends at age 60
+				* Innocent until proven guilty justice system. Perjury, however, is considered proof of guilt for all allegations.
+				* Arranged marriages are legal, and the preferred way of marriage
+				* Marriage is legal for all genders
+				* Polygamy is illegal
+				* Multiple sexual partners outside the bonds of marriage is legal for the head of house. For anyone other than the head of house, multiple sexual partners is considered treasonous to the family and the head of house may disown the offending member.
+
+				### Laws that Apply to Slaves
+				* Slaves must be collared
+				* Innocence must be proven by owner
+				* Sexual rights belong to their owner
+				* Slaves have the right to be treated well, as long as they are not insubordinate towards their owners
+				* Royalty may not be enslaved, proof must be submitted before a judge
+				* Skilled slaves must be paid for services rendered
+
+				### Religion
+				Priests and priestesses control the temples. Holy magic is rare and is considered a blessing from the gods for those who can use it.
+
+				### Trade
+				Medinos often trades tech for magic with other City States via the sea. Medinos merchants have little need to travel off the island, as most trade goods come to the city.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Henrieta Vajsabelova" url="https://www.artstation.com/siriusbudha" />
+			</attributions>
+		</node>
+		<node group="0" label="Pilos" positionY="1382" positionX="1846" shape="pin-large" symbol="home-lg" image="https://i.imgur.com/rJRohEN.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The humans of Pilos are very much like their elven brothers. They have olive to copper complexions and brown to hazel eyes. An average adult stands six feet tall. Their hair colors tend to be raven, brown, and red, though blonde has been seen from time to time.
+
+				The humans tend to be just as emotional in their actions as their elven brothers, giving into instinct rather than a thought out response.
+
+				The humans of Pilos live longer than other humans of LaFindea, growing twice as old as the standard human.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Sylvain Sarrailh" url="https://www.artstation.com/tohad" />
+			</attributions>
+		</node>
+		<node group="0" label="Umbercavern" positionY="2220" positionX="1288" shape="pin-large" symbol="insect-jaws" staticLabel="true" />
+	</nodes>
+</data>

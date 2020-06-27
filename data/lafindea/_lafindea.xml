@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<campaign name="LaFindea"  subtitle="Rise and fall of civilizations" symbol="spartan-helmet" image="https://i.imgur.com/kz4B7jN.gif">
+			<description>
+				<![CDATA[
+					LaFindea is a world emerging into a era of civilization. Most of the known world is dominated by humans, whose goals are set on expansion and conquest. 
+
+					Recently discovered races are enslaved, thought to be nothing more than savage animals to be used in service of human desires.
+
+					![Medios](https://i.imgur.com/PX89c6K.jpg)
+					Our story begins in Medios, the lands surrounding a large body of water known as the Medios Sea. This sea connects various peoples providing trade, politics, religion, culture and cultivating the desire for conquest. It is in the middle of the Medios Sea where our story begins; a slave ship sets port at the city holding most of the world's power, [The City of Medinos](./?campaign=lafindea&map=dolen_calen).
+
+					Medinos's island location, Kiritos, is impossible to invade and provides access to all cultures dotting the seaside to converge and meet. But lo and behold... Medinos has vanished and leaves a vortex of magical chaos in the middle of the sea. The fall and transformation of Medinos creates a power vortex in the world which other city states are quick to take advantage of to fill the space…
+
+					Can you sense it? The wave of war cometh...
+
+					"Children, take my blessing for it is all that stands between you and what is coming."
+					&emsp;&emsp;&emsp;– Old Man GlennSun
+				]]>
+			</description>
+			<attributions>
+				<attribution name="Lina Sidorova" url="https://www.artstation.com/linasidorova" />
+			</attributions>
+	</campaign>
+	<mlinks image="https://i.imgur.com/GCiZfIW.jpg" imageAttribution="Mathieu Seveno" imageAttributionUrl="https://www.artstation.com/matvenup" />
+	<xmaps image="https://i.imgur.com/HgXZLbd.jpg" imageAttribution="Luciano Neves" imageAttributionUrl="https://www.artstation.com/luciano_neves">
+		<xmap name="LaFindea" type="world" url="lafindea" />
+		<xmap name="Great Forest of Dolen Calen" type="city" url="dolen-calen" />
+	</xmaps>
+	<xlinks>
+		<xlink type="wiki" url="https://lafindea.obsidianportal.com/" />
+	</xlinks>
+</data>
