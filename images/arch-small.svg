@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fillRule="evenodd">
+  <path fill="none" d="M0 0h30v30H0z" />
+  <path fill="addColor" d="M15 4c-4.31 0-7.866 3.62-7.996 8.195l-.004.26V26h16V12.455c0-4.61-3.477-8.315-7.757-8.451L15 4z" />
+  <path fill="#FFF" fillRule="nonzero" d="M15 4l.243.004C19.523 4.14 23 7.846 23 12.454V26H7V12.455l.004-.26C7.134 7.62 10.69 4 15 4zm0 3c-2.638 0-4.885 2.271-4.996 5.226l-.004.229V23h10V12.455c0-2.99-2.18-5.335-4.798-5.45L15 7z"/>
+  <path fill="#000" fillRule="nonzero" d="M15 1c6.075 0 11 5.128 11 11.455V29H4V12.455C4 6.128 8.925 1 15 1zm0 3c-4.31 0-7.866 3.62-7.996 8.195l-.004.26V26h16V12.455c0-4.61-3.477-8.315-7.757-8.451L15 4z" />
+</g>
+</svg>
