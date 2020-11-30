@@ -226,19 +226,19 @@
 	</paths>
 	<battles>
 		<battle label="23rd February, 2020">
-			<token label="Krunk the Drunk" token="character-krunk-the-drunk" positionY="2083.69" positionX="803.92" size="M" />
-			<token label="Krunk's Blink Dog" token="monster-blink-dog-party" positionY="1964.73" positionX="811.13" size="M" />
-			<token label="Caracas" token="character-caracas" positionY="2161.2" positionX="1496.08" size="M" />
-			<token label="Ella" token="character-ella" positionY="1683.54" positionX="1377.11" size="S" />
-			<token label="Wilbur" token="npc-wilbur" positionY="1583.41" positionX="1327.78" size="S" />
-			<token label="Bells" token="character-bells" positionY="1286.4" positionX="1015.47" size="M">
-				<condition type="invisibility" />
+			<token label="Krunk the Drunk" token="suvaria/character-krunk-the-drunk" positionY="2083.69" positionX="803.92" size="M" />
+			<token label="Krunk's Blink Dog" token="suvaria/monster-blink-dog-neutral" positionY="1964.73" positionX="811.13" size="M" />
+			<token label="Caracas" token="suvaria/character-caracas" positionY="2161.2" positionX="1496.08" size="M" />
+			<token label="Ella" token="suvaria/character-ella" positionY="1683.54" positionX="1377.11" size="S" />
+			<token label="Wilbur" token="suvaria/npc-wilbur" positionY="1583.41" positionX="1327.78" size="S" />
+			<token label="Bells" token="suvaria/character-bells" positionY="1286.4" positionX="1015.47" size="M">
+				<condition type="invisible" />
 			</token>
-			<token label="Vanessa" token="character-vanessa" positionY="725.33" positionX="1486.93" size="M" />
-			<token label="Annie" token="character-annie" positionY="614.4" positionX="1489.07" size="M" />
-			<token label="Annie's Bear" token="monster-bear-friendly" positionY="902.4" positionX="1489.07" size="M" />
-			<token label="Robin Hode" token="npc-robin-hode" positionY="1674.67" positionX="1994.67" size="M" />
-			<token label="Ulysses Vex" token="npc-ulysses-vex" positionY="2071.07" positionX="913.87" size="M" />
+			<token label="Vanessa" token="suvaria/character-vanessa" positionY="725.33" positionX="1486.93" size="M" />
+			<token label="Annie" token="suvaria/character-annie" positionY="614.4" positionX="1489.07" size="M" />
+			<token label="Annie's Bear" token="suvaria/monster-bear-friendly" positionY="902.4" positionX="1489.07" size="M" />
+			<token label="Robin Hode" token="suvaria/npc-robin-hode" positionY="1674.67" positionX="1994.67" size="M" />
+			<token label="Ulysses Vex" token="suvaria/npc-ulysses-vex" positionY="2071.07" positionX="913.87" size="M" />
 			<token label="Vex's Erinyes" id="vexserinyes1" token="monster-erinyes" positionY="2636.8" positionX="2067.2" size="M">
 				<condition type="invisible" />
 			</token>
@@ -271,25 +271,25 @@
 			<token label="Chain Devil" id="chaineddevil2" token="monster-chain-devil" positionY="1700.27" positionX="2429.87" size="M" />
 			<token label="Spined Devil" id="spineddevil1" token="monster-spined-devil" positionY="2050.13" positionX="2154.67" size="S" />
 			<token label="Spined Devil" id="spineddevil2" token="monster-spined-devil" positionY="906.67" positionX="1977.6" size="S" />
-			<token label="Storm Giant" token="monster-storm-giant" positionY="716.8" positionX="2252.8" size="H" />
-			<token label="Luglug" token="monster-kuo-toa-archpriest" positionY="1674.67" positionX="2257.07" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier1" token="monster-kuo-toa-whip" positionY="1595.73" positionX="2257.07" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier2" token="monster-kuo-toa-whip" positionY="1581" positionX="2163" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier3" token="monster-kuo-toa-whip" positionY="426.67" positionX="2080" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier4" token="monster-kuo-toa-whip" positionY="2444.8" positionX="1868.8" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier5" token="monster-kuo-toa-whip" positionY="1875.2" positionX="2246.4" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier6" token="monster-kuo-toa-whip" positionY="2350.93" positionX="1868.8" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier7" token="monster-kuo-toa-whip" positionY="908.8" positionX="1883.73" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier8" token="monster-kuo-toa-whip" positionY="1435.73" positionX="2421.33" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier9" token="monster-kuo-toa-whip" positionY="1529.6" positionX="2429.87" size="M" />
-			<token label="Kuo Toa Soldier" id="kuotoasoldier10" token="monster-kuo-toa-whip" positionY="1772.8" positionX="2259.2" size="M" />
-			<token label="Noros" token="npc-noros" positionY="1389.16" positionX="2157.74" size="M" />
-			<token label="Molos" token="npc-molos" positionY="1488" positionX="2163" size="M" />
-			<token label="Shalryn" token="npc-shalryn" positionY="1289.94" positionX="2251.92" size="M" />
-			<token label="Tilashnna" token="npc-tilashnna" positionY="1196.6" positionX="2257.81" size="M" />
-			<token label="Poldanlin" token="npc-poldanlin" positionY="330.67" positionX="2167.47" size="M" />
-			<token label="Vlaryn" token="npc-vlaryn" positionY="324.27" positionX="2075.73" size="M" />
-			<token label="Corus" token="npc-corus" positionY="518.4" positionX="1681.07" size="M" />
+			<token label="Storm Giant" token="suvaria/monster-storm-giant-neutral" positionY="716.8" positionX="2252.8" size="H" />
+			<token label="Luglug" token="suvaria/monster-kuo-toa-archpriest-neutral" positionY="1674.67" positionX="2257.07" size="M" />
+			<token label="Kuo Toa Whip" id="kuotoawhip1" token="suvaria/monster-kuo-toa-whip-neutral" positionY="1595.73" positionX="2257.07" size="M" />
+			<token label="Kuo Toa Whip" id="kuotoawhip2" token="suvaria/monster-kuo-toa-whip-neutral" positionY="1581" positionX="2163" size="M" />
+			<token label="Kuo Toa Whip" id="kuotoawhip3" token="suvaria/monster-kuo-toa-whip-neutral" positionY="426.67" positionX="2080" size="M" />
+			<token label="Kuo Toa Whip" id="kuotoawhip4" token="suvaria/monster-kuo-toa-whip-neutral" positionY="2444.8" positionX="1868.8" size="M" />
+			<token label="Kuo Toa" id="kuotoa1" token="suvaria/monster-kuo-toa-neutral" positionY="1875.2" positionX="2246.4" size="M" />
+			<token label="Kuo Toa" id="kuotoa2" token="suvaria/monster-kuo-toa-neutral" positionY="2350.93" positionX="1868.8" size="M" />
+			<token label="Kuo Toa" id="kuotoa3" token="suvaria/monster-kuo-toa-neutral" positionY="908.8" positionX="1883.73" size="M" />
+			<token label="Kuo Toa" id="kuotoa4" token="suvaria/monster-kuo-toa-neutral" positionY="1435.73" positionX="2421.33" size="M" />
+			<token label="Kuo Toa" id="kuotoa5" token="suvaria/monster-kuo-toa-neutral" positionY="1529.6" positionX="2429.87" size="M" />
+			<token label="Kuo Toa" id="kuotoa6" token="suvaria/monster-kuo-toa-neutral" positionY="1772.8" positionX="2259.2" size="M" />
+			<token label="Noros" token="suvaria/npc-noros" positionY="1389.16" positionX="2157.74" size="M" />
+			<token label="Molos" token="suvaria/npc-molos" positionY="1488" positionX="2163" size="M" />
+			<token label="Shalryn" token="suvaria/npc-shalryn" positionY="1289.94" positionX="2251.92" size="M" />
+			<token label="Tilashnna" token="suvaria/npc-tilashnna" positionY="1196.6" positionX="2257.81" size="M" />
+			<token label="Poldanlin" token="suvaria/npc-poldanlin" positionY="330.67" positionX="2167.47" size="M" />
+			<token label="Vlaryn" token="suvaria/npc-vlaryn" positionY="324.27" positionX="2075.73" size="M" />
+			<token label="Corus" token="suvaria/npc-corus" positionY="518.4" positionX="1681.07" size="M" />
 			<effect label="Belle's Fireball" effect="fireball" positionY="2065.07" positionX="1286.4" aoe="sphere" size="20" opacity="0.8" />
 			<effect label="Erupting Earth" id="eruptingearthnorth" effect="erupting-earth-pillar" positionY="1866.17" positionX="1097.62" aoe="square" size="40" opacity="0.8" />
 			<effect label="Erupting Earth" id="eruptingearthsouth" effect="erupting-earth-pillar" positionY="523.84" positionX="1105.04" aoe="square" size="40" opacity="0.8" />

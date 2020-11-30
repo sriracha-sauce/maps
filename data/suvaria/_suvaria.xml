@@ -20,7 +20,7 @@
 	</campaign>
 	<mlinks image="https://i.imgur.com/e5IkLai.jpg" imageAttribution="Teemu Husso" imageAttributionUrl="https://www.artstation.com/husso" />
 	<xmaps image="https://i.imgur.com/HWKDd7r.jpg" imageAttribution="Gabriela Marchioro" imageAttributionUrl="https://www.artstation.com/gmarchioro">
-		<xmap name="Paukauna's Great Pyramid" type="city" url="paukauna_great_pyramid" />
+		<xmap name="Paukauna's Great Pyramid" type="city" url="paukauna_great_pyramid&amp;battle=23rdfebruary2020" />
 		<xmap name="Sanjiazi, Fang Ro's Village" type="city" url="sanjiazi" />
 	</xmaps>
 	<xlinks>
