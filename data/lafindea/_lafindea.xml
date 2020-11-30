@@ -25,7 +25,7 @@
 	<mlinks image="https://i.imgur.com/GCiZfIW.jpg" imageAttribution="Mathieu Seveno" imageAttributionUrl="https://www.artstation.com/matvenup" />
 	<xmaps image="https://i.imgur.com/HgXZLbd.jpg" imageAttribution="Luciano Neves" imageAttributionUrl="https://www.artstation.com/luciano_neves">
 		<xmap name="LaFindea" type="world" url="lafindea" />
-		<xmap name="Great Forest of Dolen Calen" type="city" url="dolen-calen" />
+		<xmap name="Great Forest of Dolen Calen" type="city" url="dolen_calen" />
 	</xmaps>
 	<xlinks>
 		<xlink type="wiki" url="https://lafindea.obsidianportal.com/" />
