@@ -240,22 +240,22 @@
 			<token label="Robin Hode" token="npc-robin-hode" positionY="1674.67" positionX="1994.67" size="M" />
 			<token label="Ulysses Vex" token="npc-ulysses-vex" positionY="2071.07" positionX="913.87" size="M" />
 			<token label="Vex's Erinyes" id="vexserinyes1" token="monster-erinyes" positionY="2636.8" positionX="2067.2" size="M">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Vex's Erinyes" id="vexserinyes2" token="monster-erinyes" positionY="1100.8" positionX="1868.8" size="M">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Imp" id="imp1" token="monster-imp" positionY="2728.53" positionX="1685.33" size="T">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Imp" id="imp2" token="monster-imp" positionY="2822.4" positionX="625.07" size="T">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Imp" id="imp3" token="monster-imp" positionY="1203.2" positionX="915.2" size="T">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Imp" id="imp4" token="monster-imp" positionY="2158.93" positionX="629.33" size="T">
-				<condition type="invisibility" />
+				<condition type="invisible" />
 			</token>
 			<token label="Bael" token="monster-bael" positionY="906.67" positionX="2357.33" size="L" />
 			<token label="Hell Boar" id="hellboar1" token="monster-hell-boar" positionY="1297.8" positionX="1497.88" size="L" />
