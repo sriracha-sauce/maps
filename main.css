@@ -38,6 +38,13 @@ h3 { 	font-size: 18px; }
 
 p { font-size: 15px; }
 
+.myhb {
+  -webkit-text-decoration: underline wavy DarkRed;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: FireBrick;
+}
+
 .leaflet-svg-labels {
 	all: unset;
 }
