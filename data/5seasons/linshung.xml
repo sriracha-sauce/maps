@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="https://i.imgur.com/vQfTdg5.jpg"
+		mapAssetLocal="./images/120ft/linshung.jpg"
+		mapAssetWidth="2822"
+		mapAssetHeight="3329"
+		mapMaxZoomMultiplier="3"
+		unitName="ft"
+		unitsAcross="9328.925619834710743801652892562"
+		unitsPerGrid="1000"
+		gridType="hex"
+		gridColor="purpleLight"
+		gridOpacity="0.3"
+		gridWeight="5.0"
+		mapAttribution="/u/winterhawk1111"
+		mapAttributionUrl="https://www.reddit.com/r/dndmaps/comments/eon5ql/the_great_city_of_eldon_capitol_of_the_amandian/"
+	/>
+	<layers>
+		<layer name="Linshung" type="basemap" visibility="true" color="" />
+		<layer name="Knights of Schedule Adventures" type="overlay" visibility="true" color="red" />
+		<layer name="Districts" type="overlay" visibility="true" color="brown" />
+	</layers>
+	<labels>
+		<label positionY="309.64" positionX="2341.19"><text><![CDATA[# Linshung]]></text></label>
+		<label positionY="229.64" positionX="2341.19"><text><![CDATA[### "The Rat Trap"]]></text></label>
+		<label positionY="2507.74" positionX="1249.38"><text><![CDATA[### Terrace]]></text></label>
+		<label positionY="2457.74" positionX="1249.38"><text><![CDATA[### of Progress]]></text></label>
+		<label positionY="1836.06" positionX="1520.34"><text><![CDATA[### Government]]></text></label>
+		<label positionY="1786.06" positionX="1520.34"><text><![CDATA[### District]]></text></label>
+		<label positionY="1283.76" positionX="1016.37"><text><![CDATA[### Ambitions]]></text></label>
+		<label positionY="1233.76" positionX="1016.37"><text><![CDATA[### Outlook]]></text></label>
+		<label positionY="1898.48" positionX="582.16"><text><![CDATA[### Warden]]></text></label>
+		<label positionY="1848.48" positionX="582.16"><text><![CDATA[### District]]></text></label>
+		<label positionY="1073" positionX="1937.31"><text><![CDATA[### Brilliance]]></text></label>
+		<label positionY="1023" positionX="1937.31"><text><![CDATA[### Ascent]]></text></label>
+		<label positionY="822.26" positionX="1446.88"><text><![CDATA[### Crafters]]></text></label>
+		<label positionY="772.26" positionX="1446.88"><text><![CDATA[### Cross]]></text></label>
+	</labels>
+	<nodes>
+		<node group="0" label="Knights enter from south and west..." positionY="437.17" positionX="270.73" shape="pin-large" symbol="ra-knight-helmet" staticLabel="false" />
+		<node group="0" label="Observatory" positionY="280.56" positionX="413.07" shape="shield-large" symbol="eyeball" image="https://i.imgur.com/zaAtCRd.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[The Observatory is outside the city and not as intensely guarded as the rest of the city. The Knights meet a korobokoru in brown-ochre peasant clothes waiting by a cart. He has a pocket watch. He identifies himself as __Wen Ju__, [[Dawn|goldencrane]](tai_tung)’s contact.
+
+				The Knights choose to have a safe way in and out of Linshung, instead of a key contact. Wen Ju suggest to keep away from @[[Warden District]] and the inns (innkeepers keep a list of people).]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Callie Wei" url="https://www.artstation.com/calliewei" />
+			</attributions>
+		</node>
+		<node group="0" label="Safe Gate" positionY="985.3" positionX="2656.31" shape="shield-large" symbol="ra-metal-gate" image="https://i.imgur.com/eZhF6Gb.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Linshung has two hundred foot high white stone walls. Bluish-yellowish light system covers the city to amply light the surroundings and keep crime at an all time low. There was once an explosion at the northern section of the walls, in the time that [[Red Rat]](tai_tung) escaped the city. The walls were since reinforced by [[Cao Cao|ministryofinventionprogress]].
+
+				The Safe Gate to the east is for business, trade convoys, and travelers.]]>
+			</sidebar>
+		</node>
+		<node group="0" label="Hazard Gate" positionY="359.5" positionX="1828.57" shape="shield-large" symbol="ra-metal-gate" image="https://i.imgur.com/VQEEl0G.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Linshung has two hundred foot high white stone walls. Bluish-yellowish light system covers the city to amply light the surroundings and keep crime at an all time low. There was once an explosion at the northern section of the walls, in the time that [[Red Rat]](tai_tung) escaped the city. The walls were since reinforced by [[Cao Cao|ministryofinventionprogress]].
+
+				The Hazard Gate to the south is or prisoners, and is well guarded and secured against infiltration.]]>
+			</sidebar>
+		</node>
+		<node group="0" label="Assembly Line" id="assemblylinenorth" positionY="2007" positionX="832" shape="none" symbol="" staticLabel="true" rotateLabel="315.5" />
+		<node group="0" label="Assembly Line" positionY="1343.77" positionX="1349.99" shape="none" symbol="" staticLabel="true" rotateLabel="295.5" />
+		<node group="0" label="Assembly Line" id="assemblylinesouth" positionY="590.67" positionX="1693.77" shape="none" symbol="" staticLabel="true" rotateLabel="290.5" />
+		<node group="0" label="Tamiyo's Residence" id="tamiyo" positionY="1197.8" positionX="1942.16" shape="pin-large" symbol="moon" image="https://i.imgur.com/zsT0TEF.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[Tamiyo is a helpful contact provided by [[Shager|petalsview]](minlow). Moonfolk are the guardians of the moons and the paths to the celestial realms. They are often found in prestigious positions in Shou government.
+
+				The Knights use Tamiyo's residence as a temporary base of operations, with her invitation, while in Linshung.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Lius Lasahido" url="https://www.artstation.com/lasahido" />
+			</attributions>
+		</node>
+		<node group="0" label="Xi Shaolan's Villa" id="xishaolan" positionY="1163.64" positionX="1736.14" shape="pin-large" symbol="manacles" image="https://i.imgur.com/CRbN1mI.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Xi Shaolan is the Director of the [[Da Suo]]. Lythara determines that [[Princess Orihime]] is being held captive underground somewhere below Xi Shaolan's villa.
+
+				According to [[Tamiyo]] he will be celebrating his 50th birthday in a party at his villa. Tamiyo offers to sneak the Knights in as servants delivering her presents to the party. He lost his wife, whom he loved very much, 15 years ago. Xi Shaolan came to disagreements with __Shianshe__, Linshung's dedicated shen lung, in a desperate attempt to return her back to life. It is likely that his obsession with his wife's death precipitated his relationship with the oni-worshipping blood cult.
+
+				The Director is responsible in part for security of the city, and is a philanthropist in his spare time.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Izzy Medrano" url="https://www.artstation.com/izzymedrano" />
+			</attributions>
+		</node>
+		<node group="0" label="Orihime in Captivity" id="princessorihime" positionY="1188.33" positionX="1743.67" shape="pin-large" symbol="sea-dragon" image="https://i.imgur.com/2FRNNnN.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[Princess Orihime is the daughter of [[Hanwei Lee-Ung]](shou) and is kidnapped and held captive by an oni-worshipping [[blood cult|xielairentrance]](yu_tai_shuni) and brought to [[Xi Shaolan's Villa|xishaolan]]. The Knights isolate her location underground, and set about the dangerous task of freeing her.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Chloe Veillard" url="https://www.artstation.com/badmiaou" />
+			</attributions>
+		</node>
+		<node group="0" label="Kang Xiuying's Residence" id="kangxiuying" positionY="1434.88" positionX="2042.58" shape="pin-large" symbol="3d-hammer" image="https://i.imgur.com/06uhu51.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Kang Xiuying is the Head of the @[[Crafters Guild|crafterscross]]. After a discussion with [[Tamiyo]] it is suspected that Kang Xiuying is one of the four individuals in Linshung with the means to cover up the kidnapping of [[Princess Orihime]], but the kidnapper turns out to be [[Xi Shaolan]] instead.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Grafit Studio" url="https://www.artstation.com/grafit" />
+			</attributions>
+		</node>
+		<node group="0" label="Cao Cao's Residence" id="caocao" positionY="1062.18" positionX="2107.8" shape="pin-large" symbol="chemical-drop" image="https://i.imgur.com/6AbjFL8.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Cao Cao is the Minister of [[Progress and Invention|ministryofprogressinvention]]. After a discussion with [[Tamiyo]] it is suspected that Cao Cao is one of the four individuals in Linshung with the means to cover up the kidnapping of [[Princess Orihime]], but the kidnapper turns out to be [[Xi Shaolan]] instead.
+
+				Cao Cao is a prolific inventor and she can claim the inventions of concrete for the roads, compasses, looking glasses, steel, hot air balloons, assembly lines, printing press improvements, and gunpowder among a long list of her contributions to [Shou](./?campaign=5seasons&map=shou).]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Lei Deng" url="https://www.artstation.com/denglei" />
+			</attributions>
+		</node>
+		<node group="0" label="Lu Tu's Residence" id="lutu" positionY="1074.6" positionX="1706.12" shape="pin-large" symbol="graduate-cap" image="https://i.imgur.com/YI9RYyp.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Lu Tu is the Principal of @[[Ambitions Outlook]], the university for research and academic instruction. After a discussion with [[Tamiyo]] it is suspected that Lu Tu is one of the four individuals in Linshung with the means to cover up the kidnapping of [[Princess Orihime]], but the kidnapper turns out to be [[Xi Shaolan]] instead.
+
+				Alyriel and [[Chao Ping|shanlu]](shou) try to break into [[Lu Tu's office|administrationbuilding]] but their attempt is unsuccessful and they are forced to flee the scene.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Lei Deng" url="https://www.artstation.com/denglei" />
+			</attributions>
+		</node>
+		<node group="0" label="Temple to Shi Chia" positionY="2154.78" positionX="1133.98" shape="shield-large" symbol="anvil-impact" image="https://i.imgur.com/j7rPLUL.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[In the @[[Terrace District|terraceofprogress]] there is a temple to Shi Chia, god of artisans and crafts.
+
+				![Shi Chia](./images/120ft/shou_gods_shi_chia.svg)]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Jia How" url="https://www.artstation.com/jiahow" />
+			</attributions>
+		</node>
+		<node group="0" label="Administration Building" positionY="1461.79" positionX="1022.84" shape="shield-large" symbol="minions" staticLabel="true" />
+		<node group="0" label="Ministry of Invention &amp; Progress" positionY="1925.59" positionX="1566.36" shape="pin-large" symbol="chemical-drop" staticLabel="true">
+			<popup>
+				<![CDATA[Minister [[Cao Cao]] is the Minister of Invention and Progress. She has invented concrete for the roads, compasses, looking glasses, steel, hot air balloons, assembly lines, printing press improvements, and gunpowder among a long list of her contributions to [Shou](./?campaign=5seasons&map=shou).
+
+				This is the building where the Ministry is headquartered, and the place where Cao Cao works.]]>
+			</popup>
+		</node>
+		<node group="0" label="Testing Fields" positionY="3015.81" positionX="2017.2" shape="shield-large" symbol="hypodermic-test" image="https://i.imgur.com/Rel5ZWI.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Though Linshung is a city of progress, its advancements come as a result of ghoulish experimentation and testing. According to [[Red Rat]](tai_tung) no magic or willpower is enough to escape from the city. Linshung's walls cannot be affected by any force or magic.
+
+				When Red Rat was a prisoner in Linshung, __Nepeta__ was given to hengeyokai to amplify their  bestial nature. They were put in cages with bars too narrow for even a rat to escape. Under the effects of Nepeta the hengeyokai tore and devoured each other. In Red Rat's story his brother consumes an experimental drug as part of the dread science at Testing Fields. Red Rat escapes Linshung during the chaos that follows when his brother explodes into fire as a side effect of the experimental drug.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Jeff McAteer" url="https://www.artstation.com/jeffmcateer" />
+			</attributions>
+		</node>
+		<node group="0" label="Da Suo" positionY="2454.37" positionX="397.23" shape="shield-large" symbol="manacles" image="https://i.imgur.com/Pe7D50r.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[[[Red Rat]](tai_tung) was put into Da Suo with his family and spent years behind bars. The prison complex is a building 20 feet above the ground, with most of it underground. There is a moat protecting it.
+
+				[[Xi Shaolan|xishaolansvilla]] is the Director of the prison.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Gregory Fromenteau" url="https://www.artstation.com/greg-f" />
+			</attributions>
+		</node>
+	</nodes>
+	<paths>
+		<path group="1" route="Terrace of Progress" color="red" isPolygon="true" polyColor="redLight" symbol="lantern-flame" symbolSizePx="200" symLocationY="2336.75" symLocationX="1249.38">
+			<waypoint label="ToP 1" waypoint="true" positionY="2756.17" positionX="1019.69" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 2" waypoint="true" positionY="2755.88" positionX="1143.97" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 3" waypoint="true" positionY="2747.29" positionX="1246.05" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 4" waypoint="true" positionY="2732.87" positionX="1312.62" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 5" waypoint="true" positionY="2696.87" positionX="1413.14" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 6" waypoint="true" positionY="2652.98" positionX="1500.14" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 7" waypoint="true" positionY="2535.37" positionX="1655.48" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 8" waypoint="true" positionY="2469.11" positionX="1724.75" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 9" waypoint="true" positionY="2390.01" positionX="1779.75" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 10" waypoint="true" positionY="2280.69" positionX="1847.95" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 11" waypoint="true" positionY="2171.99" positionX="1894.53" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 12" waypoint="true" positionY="2021.87" positionX="1923.52" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 13" waypoint="true" positionY="2034.23" positionX="1861.67" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 14" waypoint="true" positionY="2044.94" positionX="1647.32" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 15" waypoint="true" positionY="2043.87" positionX="1617.31" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 16" waypoint="true" positionY="2036.37" positionX="1427.6" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 17" waypoint="true" positionY="2004.22" positionX="1283.98" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 18" waypoint="true" positionY="1931.34" positionX="1126.43" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 19" waypoint="true" positionY="1852.02" positionX="1006.4" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 20" waypoint="true" positionY="2202.49" positionX="665.57" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 21" waypoint="true" positionY="2260.37" positionX="702.01" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 22" waypoint="true" positionY="2343.97" positionX="733.09" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 23" waypoint="true" positionY="2453.29" positionX="757.74" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 24" waypoint="true" positionY="2554.04" positionX="767.39" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ToP 25" waypoint="true" positionY="2695.83" positionX="896" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Government District" color="green" isPolygon="true" polyColor="grey" symbol="pagoda" symbolSizePx="180" symLocationY="1679.01" symLocationX="1522.09">
+			<waypoint label="GD 1" waypoint="true" positionY="1827.76" positionX="1025.21" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 2" waypoint="true" positionY="1923.41" positionX="1171.27" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 3" waypoint="true" positionY="1983.23" positionX="1338.81" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 4" waypoint="true" positionY="2007.35" positionX="1485.27" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 5" waypoint="true" positionY="2009.65" positionX="1672.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 6" waypoint="true" positionY="2002.18" positionX="1814.94" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 7" waypoint="true" positionY="1984.95" positionX="1927.52" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 8" waypoint="true" positionY="1878.7" positionX="1926.94" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 9" waypoint="true" positionY="1767.85" positionX="1911.43" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 10" waypoint="true" positionY="1690.31" positionX="1887.89" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 11" waypoint="true" positionY="1594.97" positionX="1853.42" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 12" waypoint="true" positionY="1512.26" positionX="1809.77" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 13" waypoint="true" positionY="1400.84" positionX="1732.24" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 14" waypoint="true" positionY="1317.56" positionX="1645.51" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 15" waypoint="true" positionY="1245.83" positionX="1537.48" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 16" waypoint="true" positionY="1186.41" positionX="1437.76" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 17" waypoint="true" positionY="1372.19" positionX="1355.79" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="GD 18" waypoint="true" positionY="1519.04" positionX="1275.2" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Ambitions Outlook" color="blue" isPolygon="true" polyColor="blueLight" symbol="ribbon-medal" symbolSizePx="200" symLocationY="1405.89" symLocationX="1015.59">
+			<waypoint label="AO 1" waypoint="true" positionY="1812.54" positionX="997.77" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 2" waypoint="true" positionY="1685.16" positionX="1109.04" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 3" waypoint="true" positionY="1559.25" positionX="1210.8" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 4" waypoint="true" positionY="1477.99" positionX="1269.36" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 5" waypoint="true" positionY="1170.54" positionX="1404.79" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 6" waypoint="true" positionY="1131.01" positionX="1270.09" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 7" waypoint="true" positionY="1109.78" positionX="1114.9" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 8" waypoint="true" positionY="1114.9" positionX="948" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 9" waypoint="true" positionY="1143.45" positionX="823.55" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 10" waypoint="true" positionY="1192.5" positionX="699.1" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 11" waypoint="true" positionY="1420" positionX="745.86" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 12" waypoint="true" positionY="1587.34" positionX="810.74" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="AO 13" waypoint="true" positionY="1716.43" positionX="896.81" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Warden District" color="purple" isPolygon="true" polyColor="purpleLight" symbol="samurai-helmet" symbolSizePx="200" symLocationY="1733.15" symLocationX="579.2">
+			<waypoint label="WD 1" waypoint="true" positionY="2180.27" positionX="639.79" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 2" waypoint="true" positionY="2041.67" positionX="776.7" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 3" waypoint="true" positionY="1835.96" positionX="977.28" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 4" waypoint="true" positionY="1746.65" positionX="893.09" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 5" waypoint="true" positionY="1645.63" positionX="814.03" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 6" waypoint="true" positionY="1549" positionX="763.52" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 7" waypoint="true" positionY="1426.02" positionX="723.99" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 8" waypoint="true" positionY="1297.18" positionX="695.44" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 9" waypoint="true" positionY="1204.21" positionX="683" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 10" waypoint="true" positionY="1255.45" positionX="581.97" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 11" waypoint="true" positionY="1309.62" positionX="513.89" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 12" waypoint="true" positionY="1371.12" positionX="442.15" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 13" waypoint="true" positionY="1486.05" positionX="349.18" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 14" waypoint="true" positionY="1486.05" positionX="349.18" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 15" waypoint="true" positionY="1604.64" positionX="284.03" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 16" waypoint="true" positionY="1722.5" positionX="241.57" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 17" waypoint="true" positionY="1838.89" positionX="216.68" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="WD 18" waypoint="true" positionY="1958.95" positionX="210.1" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Brilliance Ascent" color="black" isPolygon="true" polyColor="grey" symbol="ra-diamond" symbolSizePx="180" symLocationY="1172.86" symLocationX="1941.75">
+			<waypoint label="BA 1" waypoint="true" positionY="1601.55" positionX="2034.3" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 2" waypoint="true" positionY="1519.77" positionX="2121.26" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 3" waypoint="true" positionY="1447.3" positionX="2189.59" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 4" waypoint="true" positionY="1343.77" positionX="2108.83" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 5" waypoint="true" positionY="1140.86" positionX="2228.93" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 6" waypoint="true" positionY="1154.32" positionX="2321.06" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 7" waypoint="true" positionY="1070.46" positionX="2352.12" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 8" waypoint="true" positionY="952.44" positionX="2379.04" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 9" waypoint="true" positionY="904.82" positionX="1771.34" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 10" waypoint="true" positionY="1134.65" positionX="1647.11" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 11" waypoint="true" positionY="1237.14" positionX="1792.04" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 12" waypoint="true" positionY="1289.94" positionX="1828.28" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 13" waypoint="true" positionY="1314.79" positionX="1817.93" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="BA 14" waypoint="true" positionY="1428.67" positionX="1906.96" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Crafters Cross" color="black" isPolygon="true" polyColor="grey" symbol="anvil-impact" symbolSizePx="200" symLocationY="685.73" symLocationX="1432.65">
+			<waypoint label="CC 1" waypoint="true" positionY="1193.9" positionX="1605.39" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 2" waypoint="true" positionY="893.49" positionX="1764.77" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 3" waypoint="true" positionY="902.95" positionX="1878.99" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 4" waypoint="true" positionY="770.82" positionX="1880.2" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 5" waypoint="true" positionY="699.82" positionX="1803.89" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 6" waypoint="true" positionY="554.45" positionX="1888.41" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 7" waypoint="true" positionY="430.81" positionX="1974.37" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 8" waypoint="true" positionY="349.92" positionX="1605.26" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 9" waypoint="true" positionY="364.05" positionX="1446.77" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 10" waypoint="true" positionY="386.02" positionX="1313.39" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 11" waypoint="true" positionY="433.09" positionX="1181.58" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 12" waypoint="true" positionY="475.46" positionX="1074.88" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 13" waypoint="true" positionY="861.47" positionX="1056.05" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 14" waypoint="true" positionY="1024.67" positionX="1038.79" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 15" waypoint="true" positionY="1021.53" positionX="1162.75" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 16" waypoint="true" positionY="1041.93" positionX="1313.39" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="CC 17" waypoint="true" positionY="1090.57" positionX="1448.34" shape="none" symbol="" staticLabel="false" />
+		</path>
+	</paths>
+</data>

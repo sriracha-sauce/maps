@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<campaign name="The Fifth Season"  subtitle="Perish the dreamer..." symbol="squid-head" image="https://i.imgur.com/vD2ZZ79.jpg">
+			<description>
+				<![CDATA[
+					Outside the ordered universe is that amorphous blight of nethermost confusion which blasphemes and bubbles at the center of all infinity, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time and space amidst the muffled, maddening beating of vile drums and the thin monotonous whine of accursed flutes. He is a mindless entity, which governs all time and space from a curiously environed nighted throne at the centre of Chaos, at the nucleus of the cosmos. In the pages of the __Necronomicon__ he is referred to as the one who made the gods and thereafter rested. Azathoth is the hideous, echoing appelation by which he is known. He is the ruler of the Outer Gods. All of reality is merely a part of Azathoth's dream, unknowingly created by itself, or so it is written.]]>
+			</description>
+			<attributions>
+				<attribution name="Jonas Ström" url="https://www.deviantart.com/noceur" />
+			</attributions>
+	</campaign>
+	<mlinks image="https://i.imgur.com/jiII8a9.jpg" imageAttribution="Gerald Brom" imageAttributionUrl="https://www.bromart.com/" />
+	<xmaps image="https://i.imgur.com/M9H92L5.jpg" imageAttribution="Robert Lazzaretti" imageAttributionUrl="https://www.artstation.com/lazzz">
+		<xmap name="Athas: Tyr Region" type="locality" url="tyr_region&amp;chapter=thrinnn" />
+		<xmap name="Athas: Chains of Azdaja" type="locality" url="chains_of_azdaja" />
+		<xmap name="Shou" type="locality" url="shou" />
+		<xmap name="Shou: Yu Tai Shuni, a port town" type="city" url="yu_tai_shuni" />
+		<xmap name='Shou: Minlow, the "hot springs" city' type="city" url="minlow" />
+		<xmap name="Shou: Tai Tung, the city that never sleeps" type="city" url="tai_tung" />
+		<xmap name="Shou: Linshung, the Rat Trap" type="city" url="linshung" />
+	</xmaps>
+	<xlinks>
+		<xlink type="wiki" url="https://v.bushido.black/" />
+		<xlink type="roll20" url="https://5.bushido.black" />
+	</xlinks>
+</data>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="./images/120ft/tai_tung.svg"
+		mapAssetWidth="2885"
+		mapAssetHeight="3421"
+		mapMaxZoomMultiplier="2"
+		unitName="ft"
+		unitsAcross="22139.09"
+		unitsPerGrid="1000"
+		gridType="hex"
+		gridWeight="5.0"
+		mapAttribution="Watabou"
+		mapAttributionUrl="https://watabou.itch.io/medieval-fantasy-city-generator"
+	/>
+	<layers>
+		<layer name="Tai Tung" type="basemap" visibility="true" color="" />
+		<layer name="Knights of Schedule Adventures" type="overlay" visibility="true" color="purpleLight" />
+		<layer name="Districts" type="overlay" visibility="true" color="brown" />
+	</layers>
+	<labels>
+		<label positionY="1718" positionX="365"><text><![CDATA[# Tai Tung]]></text></label>
+		<label positionY="1650" positionX="365"><text><![CDATA[### "City that Never Sleeps"]]></text></label>
+		<label positionY="2299.67" positionX="1491.94"><text><![CDATA[### Jurisdiction]]></text></label>
+		<label positionY="2090.71" positionX="1056.77"><text><![CDATA[### Dusk Clan]]></text></label>
+		<label positionY="1488.5" positionX="1406" rotateLabel="65"><text><![CDATA[### Zone]]></text></label>
+		<label positionY="1580.46" positionX="1466.05" rotateLabel="50"><text><![CDATA[### of the]]></text></label>
+		<label positionY="1673.62" positionX="1561.96" rotateLabel="40"><text><![CDATA[### Hungry]]></text></label>
+		<label positionY="1750.35" positionX="1675.03" rotateLabel="25"><text><![CDATA[### Beasts]]></text></label>
+	</labels>
+	<nodes>
+		<node group="0" label="Knights enter from north..." positionY="2860.5" positionX="779" shape="pin-large" symbol="ra-knight-helmet" staticLabel="false" />
+		<node group="0" label="Bulls on Parade" positionY="2074" positionX="1247" shape="pin-large" symbol="bull" image="https://i.imgur.com/BbLuA2b.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[A herd of dire oxen inexplicably charge through central Tai Tung destroying buildings and tramping city dwellers. The Knights rush to protect the people. Lythara summons an illusory gold dragon to breathe fire down on the oxen, while Udex and Chao attempt to save bystanders in the way of the stampede. Udex personally saves two women, who are later identified as the Dawn's niece and grand-niece.
+
+				![Xiahou Yuan](https://i.imgur.com/EpBeyqf.jpg)
+				## Xiahou Yuan
+				Xiahou Yuan is also known as the Whirling Executioner. He is the Minister of Collection & Protection. When charging dire oxen are encountered on the streets of Tai Tung, he arrives dressed in a red outfit with brown hair in a ponytail, accompanied by seven soldiers. Xiahou Yuan is a famous general. He has question mark shaped markings on his face, and edges of his mouth are turned up in a smile, in style of theater. He is wearing Shou plate armor. He wields a sickle with a ball on it, known as a Kusari Gama. His whirling blade kills three oxen, but it is not enough to halt the charge of the herd. In plain sight of Xiahou Yuan, [[Red Rat]] pacifies the herd with an enchantment and disappears into the crowd.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Gary Phillips" url="https://www.garyphillips.org.uk/" />
+				<attribution name="凯杰 (Kaijie) Huang" url="https://www.artstation.com/kaivinghuang" />
+			</attributions>
+		</node>
+		<node group="0" label="Cherry Blossom Clan" positionY="2366.89" positionX="1602.27" shape="shield-large" symbol="oda-crest" staticLabel="false">
+			<popup>
+				<![CDATA[Jade Blossom Clan controls the district to the east, comprised of mystics, wu-jen magic, spirituality, and entertainment of the city. The Jurisdiction district has courthouses, government buildings, and high end inns.]]>
+			</popup>
+		</node>
+		<node group="0" label="Tavern" positionY="2163.75" positionX="1397.24" shape="pin-large" symbol="beer" staticLabel="false" />
+		<node group="0" label="Dusk Clan" positionY="1970.71" positionX="1195.72" shape="shield-large" symbol="spiky-eclipse" image="https://i.imgur.com/McFArdO.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The Dusk Clan controls this district of Tai Tung. Here you can find gambling dens, shops, underground fights, races, and other illicit activities.
+
+				The Clan is led by a person named [[The Dawn|goldencrane]].]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Linfeng Dai" url="https://www.artstation.com/devinlf" />
+			</attributions>
+		</node>
+		<node group="0" label="Golden Crane" positionY="1979.5" positionX="1387" shape="pin-large" symbol="crane" image="https://i.imgur.com/ft0Z5QH.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[The Golden Crane is an auction hall owned by the [[Dusk Clan]]. The decor is avian themed and the receptionist is a bird hengeyokai. The Knights learn of a special auction being held here, with very expensive goods on the ticket. The rumors indicate big parts from @[[Laothan]](shou), and items from Faerun. The cost of admission with an auction paddle is 500 Shou gold.
+
+				The Knights later meet with the Dawn who is a bird hengeyokai himself. His reception room is on the higher floors of the Golden Crane, finely ornamented 6-foot wide doors. Inside there is exquisitely decorated furniture. There is a large portrait of bird creatures, unveiled celestials with beaks, in the back. The celestials are in a battle against oni like creatures.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Hoàng Lap (Solan)" url="https://www.artstation.com/hoanglap" />
+			</attributions>
+		</node>
+		<node group="0" label="Zone of the Hungry Beasts" positionY="1447.06" positionX="1513.26" shape="shield-large" symbol="imp-laugh" image="https://i.imgur.com/pwk5mZE.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[This area around the docks is dangerous and controlled by rival gangs with interests in controlling trade and the flow of money.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Hugh Pindur" url="https://www.artstation.com/pindurski" />
+			</attributions>
+		</node>
+		<node group="0" label="Docks" positionY="1456.19" positionX="1716.39" shape="pin-large" symbol="galleon" image="https://i.imgur.com/VxZJF9u.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The docks are central to the flow of goods and money in and out of Tai Tung.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Jia How" url="https://www.artstation.com/jiahow" />
+			</attributions>
+		</node>
+		<node group="0" label="Haunted Warehouse" positionY="1823.5" positionX="1707.5" shape="shield-large" symbol="dungeon" staticLabel="true">
+			<popup>
+				<![CDATA[As a favor to [[The Dawn|goldencrane]], the Knights go to a warehouse which contains some goods from Shadow Orphans in Faerun. There is a hidden lever with access to an underground facility.]]>
+			</popup>
+		</node>
+		<node group="0" label="Dock No. 4" positionY="1714.5" positionX="1892" shape="pin-large" symbol="galleon" staticLabel="true" />
+		<node group="0" label="Fortune Plaza" positionY="1886.32" positionX="1375.09" shape="pin-large" symbol="luck" staticLabel="true" />
+		<node group="0" label="Flipping Coin Sanctum" positionY="1827" positionX="1421" shape="shield-large" symbol="coin" image="https://i.imgur.com/TrifCrg.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[The Flipping Coin sanctum is a temple dedicated to Hsing Yong the goddess of fortune.
+
+				![Hsing Yong](./images/120ft/shou_gods_hsing_yonh.svg)]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Tony Tsao" url="https://www.artstation.com/tony63116311" />
+			</attributions>
+		</node>
+		<node group="0" label="Promenade of Oaths" positionY="1676.25" positionX="1387.95" shape="pin-large" symbol="great-wall" staticLabel="true" />
+		<node group="0" label="Challenger's Castle" positionY="1542.5" positionX="897" shape="pin-large" symbol="fist-raised" image="https://i.imgur.com/NQV9x3R.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[A structure with concert halls and fighting pits.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Kalen Chock" url="https://www.artstation.com/k04sk" />
+			</attributions>
+		</node>
+		<node group="0" label="Everfair" positionY="1339.72" positionX="1287.2" shape="shield-large" symbol="ferris-wheel" image="https://i.imgur.com/BLkcDGD.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[An always-open amusement park "the Everfair" can be found in the south of Tai Tung.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Derek Weselake" url="https://www.artstation.com/wez" />
+			</attributions>
+		</node>
+		<node group="0" label="Contact with Blue Badger" id="bluebadger" positionY="924.34" positionX="1845.44" shape="pin-large" symbol="badger" image="https://i.imgur.com/TTQxlqU.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[Blue Badger is a woman with stripes of white hair, blackish robes, with many thin scars from cuts scabbed over by burns. She is a hengeyokai badger. She instructs Black Chao to meet [[Red Rat]] in a warehouse in a district by the docks. Blue Badger indicates that the Resistance is planning something, but she does not reveal any additional details.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Toraji" url="https://www.artstation.com/toraji" />
+			</attributions>
+		</node>
+		<node group="0" label="Meeting with Red Rat" id="redrat" positionY="2049" positionX="637.5" shape="pin-large" symbol="red-rat" image="https://i.imgur.com/J55vvf8.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[The Knights are guided to the meeting by [[Blue Badger]]. Red Rat is the muscled figure with fur and burn marks seen during the [[stampede of dire oxen|bullsonparade]]. His eyes glow with blue light. His body is muscled and scarred. Red Rat wears ceremonial robes of red and gold, and a necklace of black bones with symbols on it. Red Rat seems like he has not reverted back to human form in quite a while, which may make him more feral over time.
+
+				Red Rat describes [[Linshung]](shou) as "hell". No magic or willpower is enough to escape from Linshung. Walls there cannot be affected by any force or magic. Nepeta was given to imprisoned hengeyokai to make them bestial and make them fight. The hengeyokai were put in a cage with bars too narrow for even a rat to escape. The hengeyokai tear and devour each other as a result of the influence of Nepeta. Red Rat was put there with his family.
+
+				Linshung Complex is a building 20 feet above the ground, with most of it underground. There is a moat protecting it. Red Rat escaped in the chaos from the exploding body of his brother who consumed an experimental drug. Red Rat wants to exact vengeance on the government which did this to him.
+
+				He mentions that [[The Dawn|goldencrane]] can smuggle us into Linshung.
+
+				The Secretary of Protection and Collection, Zhuge Liang, a mole hengeyokai, is a spy for the Resistance.
+
+				He suggests to watch out for those of Jade Blossom Clan during bidding at Golden Crane.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Yang Qi" url="https://www.artstation.com/yangqi917" />
+			</attributions>
+		</node>
+	</nodes>
+	<paths>
+		<path group="1" route="Jurisdiction" isPolygon="true" polyColor="grey" symbol="scales" symbolSizePx="150" symLocationY="2225" symLocationX="1490">
+			<waypoint label="J 1" waypoint="true" positionY="2412.26" positionX="1343.68" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 2" waypoint="true" positionY="2336" positionX="1463" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 3" waypoint="true" positionY="2517" positionX="1636" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 4" waypoint="true" positionY="2384" positionX="1680" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 5" waypoint="true" positionY="2264.5" positionX="1611" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 6" waypoint="true" positionY="2204.5" positionX="1695" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 7" waypoint="true" positionY="2193" positionX="1790.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 8" waypoint="true" positionY="2064.5" positionX="1714.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 9" waypoint="true" positionY="2035" positionX="1614" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 10" waypoint="true" positionY="2130.5" positionX="1536" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 11" waypoint="true" positionY="2057.5" positionX="1420.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 12" waypoint="true" positionY="2102.5" positionX="1402" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 13" waypoint="true" positionY="2169" positionX="1386" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="J 14" waypoint="true" positionY="2258" positionX="1345" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Dusk Clan" isPolygon="true" polyColor="grey" symbol="spiky-eclipse" symbolSizePx="150" symLocationY="1994.85" symLocationX="1061.33">
+			<waypoint label="DC 1" waypoint="true" positionY="2319.5" positionX="1101.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 2" waypoint="true" positionY="2341.5" positionX="1225.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 3" waypoint="true" positionY="2406" positionX="1335.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 4" waypoint="true" positionY="2256.5" positionX="1336" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 5" waypoint="true" positionY="2163.5" positionX="1380" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 6" waypoint="true" positionY="2099" positionX="1394" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 7" waypoint="true" positionY="2050.5" positionX="1413.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 8" waypoint="true" positionY="2002.5" positionX="1425" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 9" waypoint="true" positionY="1956" positionX="1425.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 10" waypoint="true" positionY="1956" positionX="1325.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 11" waypoint="true" positionY="1855" positionX="1299" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 12" waypoint="true" positionY="1847.5" positionX="1230.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 13" waypoint="true" positionY="1866" positionX="1162" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 14" waypoint="true" positionY="1827" positionX="1062" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 15" waypoint="true" positionY="1830" positionX="872.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 16" waypoint="true" positionY="2022.5" positionX="871" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 17" waypoint="true" positionY="2138.5" positionX="898.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="DC 18" waypoint="true" positionY="2226" positionX="983" shape="none" symbol="" staticLabel="false" />
+		</path>
+		<path group="1" route="Zone of the Hungry Beasts" isPolygon="true" polyColor="grey" symbol="imp-laugh" symbolSizePx="150" symLocationY="1817.41" symLocationX="1805.53">
+			<waypoint label="ZHB 1" waypoint="true" positionY="1524.5" positionX="1588.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 2" waypoint="true" positionY="1386.5" positionX="1538" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 3" waypoint="true" positionY="1378.5" positionX="1530" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 4" waypoint="true" positionY="1385" positionX="1382" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 5" waypoint="true" positionY="1400" positionX="1384" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 6" waypoint="true" positionY="1478.5" positionX="1249" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 7" waypoint="true" positionY="1540" positionX="1278" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 8" waypoint="true" positionY="1612" positionX="1386.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 9" waypoint="true" positionY="1648.5" positionX="1427" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 10" waypoint="true" positionY="1722" positionX="1439.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 11" waypoint="true" positionY="1782.5" positionX="1503" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 12" waypoint="true" positionY="1777.5" positionX="1562" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 13" waypoint="true" positionY="1811.5" positionX="1620" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 14" waypoint="true" positionY="1884.5" positionX="1668" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 15" waypoint="true" positionY="2020.5" positionX="1925" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 16" waypoint="true" positionY="1892" positionX="1966.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 17" waypoint="true" positionY="1818.5" positionX="1978" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 18" waypoint="true" positionY="1725" positionX="1934" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 19" waypoint="true" positionY="1703" positionX="1850.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 20" waypoint="true" positionY="1638.5" positionX="1817.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 21" waypoint="true" positionY="1615" positionX="1713.5" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="ZHB 22" waypoint="true" positionY="1634.5" positionX="1635" shape="none" symbol="" staticLabel="false" />
+		</path>
+	</paths>
+</data>

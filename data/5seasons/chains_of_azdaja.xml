@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="https://i.imgur.com/APVAnTj.jpg"
+    mapAssetLocal="./images/5seasons/chains_of_azdaja.jpg"
+		mapAssetWidth="3820"
+		mapAssetHeight="2160"
+		mapMaxZoomMultiplier="1.5"
+		unitName="ft"
+		unitsAcross="38200"
+		unitsPerGrid="5000"
+		gridType="hex"
+		gridColor="purpleLight"
+		gridOpacity="0.3"
+		gridWeight="3.0"
+		mapAttribution="/u/RogueFactor"
+		mapAttributionUrl="https://www.reddit.com/r/dndmaps/comments/jqf8jb/the_chains_of_azdaja/"
+	/>
+	<layers>
+		<layer name="Chains of Azdaja" type="basemap" visibility="true" color="" />
+		<layer name="Finding Thrinnn" type="overlay" visibility="true" color="purpleDark" />
+	</layers>
+	<nodes>
+		<node group="0" label="Guthrie's dropoff" positionY="1167.24" positionX="1126.63" shape="pin-large" symbol="silt-skimmer" staticLabel="true" />
+		<node group="0" label="Thrinnn was here..." positionY="1463.57" positionX="1941.89" shape="pin-large" symbol="crystal-growth" staticLabel="true" />
+	</nodes>
+</data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
