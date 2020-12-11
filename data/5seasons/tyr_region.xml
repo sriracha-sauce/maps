@@ -1195,7 +1195,7 @@
 				<attribution name="David Revoy" url="https://www.davidrevoy.com/" />
 			</attributions>
 		</node>
-    <node group="0" label="Winter's Nest" positionY="3787" positionX="3438" shape="circle-large" symbol="feather" image="https://i.imgur.com/CFP61HE.jpg" staticLabel="false">
+    <node group="0" label="Winter Nest" positionY="3787" positionX="3438" shape="circle-large" symbol="feather" image="https://i.imgur.com/CFP61HE.jpg" staticLabel="false">
 			<sidebar>
 				<![CDATA[**Population:** 1,500
 
