@@ -3,7 +3,7 @@
 	<map 
 		modeCartograph="false"
 		mapAsset="https://i.imgur.com/nKqdhXe.jpg"
-		mapAssetLocal="./images/suvaria/paukauna_great_pyramid.jpg"
+		mapAssetLocal="./images_source/suvaria/paukauna_great_pyramid.jpg"
 		mapAssetWidth="3072"
 		mapAssetHeight="3072"
 		mapMaxZoomMultiplier="1.2"
