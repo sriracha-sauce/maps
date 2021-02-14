@@ -3,7 +3,7 @@
 	<map 
 		modeCartograph="false"
 		mapAsset="https://i.imgur.com/vQfTdg5.jpg"
-		mapAssetLocal="./images/120ft/linshung.jpg"
+		mapAssetLocal="./images_source/120ft/linshung.jpg"
 		mapAssetWidth="2822"
 		mapAssetHeight="3329"
 		mapMaxZoomMultiplier="3"

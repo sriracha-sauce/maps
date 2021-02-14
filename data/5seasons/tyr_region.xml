@@ -3,7 +3,7 @@
   <map 
     modeCartograph="false"
     mapAsset="https://i.imgur.com/aMB5XuC.jpg"
-    mapAssetLocal="./images/5seasons/tyr_region.jpg"
+    mapAssetLocal="./images_source/5seasons/tyr_region.jpg"
     mapAssetWidth="4711"
     mapAssetHeight="6094"
     mapMaxZoomMultiplier="1"

@@ -3,7 +3,7 @@
 	<map 
 		modeCartograph="false"
 		mapAsset="https://i.imgur.com/APVAnTj.jpg"
-    mapAssetLocal="./images/5seasons/chains_of_azdaja.jpg"
+    mapAssetLocal="./images_source/5seasons/chains_of_azdaja.jpg"
 		mapAssetWidth="3820"
 		mapAssetHeight="2160"
 		mapMaxZoomMultiplier="1.5"
