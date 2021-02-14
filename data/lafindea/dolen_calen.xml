@@ -3,7 +3,7 @@
 	<map 
 		modeCartograph="false"
 		mapAsset="https://i.imgur.com/2t2NxLq.jpg"
-		mapAssetLocal="./images/lafindea/dolen_calen.jpg"
+		mapAssetLocal="./images_source/lafindea/dolen_calen.jpg"
 		mapAssetWidth="4096"
 		mapAssetHeight="2897"
 		mapMaxZoomMultiplier="1.6"

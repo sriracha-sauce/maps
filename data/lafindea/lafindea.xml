@@ -3,7 +3,7 @@
 	<map 
 		modeCartograph="false"
 		mapAsset="https://i.imgur.com/LWvUIho.jpg"
-		mapAssetLocal="./images/lafindea/lafindea_new.jpg"
+		mapAssetLocal="./images_source/lafindea/lafindea_new.jpg"
 		mapAssetWidth="4096"
 		mapAssetHeight="3072"
 		mapMaxZoomMultiplier="2.3"
