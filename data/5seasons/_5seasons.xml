@@ -13,6 +13,7 @@
 	<xmaps image="https://i.imgur.com/M9H92L5.jpg" imageAttribution="Robert Lazzaretti" imageAttributionUrl="https://www.artstation.com/lazzz">
 		<xmap name="Athas: Tyr Region" type="locality" url="tyr_region&amp;chapter=thrinnn" />
 		<xmap name="Athas: Chains of Azdaja" type="locality" url="chains_of_azdaja" />
+		<xmap name="Carcosa: Raine Tunnels" type="dungeon" url="raine_stadium_tunnels" />
 		<xmap name="Shou" type="locality" url="shou" />
 		<xmap name="Shou: Yu Tai Shuni, a port town" type="city" url="yu_tai_shuni" />
 		<xmap name='Shou: Minlow, the "hot springs" city' type="city" url="minlow" />

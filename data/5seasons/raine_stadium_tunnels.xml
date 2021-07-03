@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<map 
+		modeCartograph="false"
+		mapAsset="https://i.imgur.com/YmLBOs5.jpg"
+		mapAssetLocal="./images_source/5seasons/raine_stanium_tunnels.jpg"
+		mapAssetWidth="3840"
+		mapAssetHeight="6412"
+		mapMaxZoomMultiplier="1.5"
+		unitName="ft"
+		unitsAcross="100"
+		unitsPerGrid="5"
+		gridType="square"
+    gridColor="red"
+		gridOpacity="0.4"
+		gridWeight="4.0"
+		thetaX="-45"
+		thetaY="35"
+		thetaZ="-35"
+	/>
+	<labels>
+		<label positionY="4527.24" positionX="754.54"><text><![CDATA[### Backstage]]></text></label>
+		<label positionY="4457.24" positionX="754.54"><text><![CDATA[### Lodging]]></text></label>
+		<label positionY="4173.58" positionX="2546.01"><text><![CDATA[### Fighting]]></text></label>
+		<label positionY="4103.58" positionX="2546.01"><text><![CDATA[### Pit]]></text></label>
+	</labels>
+	<layers>
+		<layer name="Raine Tunnels" type="basemap" visibility="true" color="" />
+		<layer name="Locations" type="overlay" visibility="true" color="green" />
+		<layer name="Exits" type="overlay" visibility="true" color="green" />
+		<layer name="Traps" type="overlay" visibility="true" color="red" />
+		<layer name="Hidden Locations" type="overlay" visibility="true" color="purpleLight" chapter="secrets" />
+		<layer name="Hidden Traps" type="overlay" visibility="true" color="purple" chapter="secrets" />
+	</layers>
+	<nodes>
+		<node group="0" label="Reception Hall" positionY="4789.68" positionX="1765.16" shape="pin-large" symbol="throne-king" image="https://i.imgur.com/yOcFyPs.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[In the days of the Heartwood Moot, wood elf dukes and duchesses control holdings in Celerity, and Raine is a small metropolis built around a towering stadium. Fights in the arena are held in view of larger audiences, but beneath the stadium private fights could be arranged for a privileged few with connections to royalty. In this hall, dark elf myrmidons slaughtered each other to the sound of cheers by their wood elf masters, only to be tossed a roasted chicken, or a few coins, or a promise of a prominent battle in the stadium. Defeated gladiators were most often slaughtered on the spot, and in rare cases the victor was "promoted" to a second fight with a more qualified opponent in the spiked pit further down the hall.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Min Gyu Lee" url="https://www.artstation.com/atec" />
+			</attributions>
+		</node>
+		<node group="0" label="Locked Door" id="arcane-lock-backstage" positionY="4719.94" positionX="1511.17" shape="diamond-large" symbol="padlock" image="https://i.imgur.com/vrreiIX.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[This door is magically locked. A successful DC 30 Dexterity (Sleight of Hand) or Strength check unlocks the door.]]>
+			</sidebar>
+		</node>
+		<node group="0" label="Sidhe Cinerarium" positionY="2999.07" positionX="2935.05" shape="arch-large" symbol="dead-wood" image="https://i.imgur.com/o7YoN64.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Cinerariums are a gruesome practice, historically originating during the Chalkhill Uprising. The sidhe people are said to inhabit three worlds simultaneously, the Material Plane, the [[Otherworld|https://en.wikipedia.org/wiki/Otherworld]] or Feywild as it is known, and Shadowfell. As long as a sidhe maintains their trifold colocation, they remain nigh unkillable. A cinerarium is a spiritual tomb where a sidhe is bound into an immobile state, their body ignited by a slow fire for eternity.
+
+        Prior to Chalkhill Uprising, murder is unheard of among the sidhe. The attempted assassination of the then-queen of the sidhe people, a half-breed named Khiral, changes the overall sidhe view of punishment and justice. Khiral introduces the use of cinerariums as a form of capital punishment, or at least what sidhe would describe as "capital". The practice involves pulling a sidhe entirely into the Material Plane so they are no longer colocated. Their form is altered to that of an immobile tree, and their bodies are set on fire through an arcane process which slow-burns for eternity. Each sidhe inside a cinerarium is trapped in an agonizing perpetuity of immolation, unable to escape, and unable to die.  Though the practice of binding sidhe to cinerariums begins with Khiral, the cultural practice continues for centuries after her disappearance.
+
+        Thousands of sidhe are imprisoned in cinerariums over the years and these morbid groves can be found in different locations on Carcosa.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Brad Rigney" url="https://www.artstation.com/cryptcrawler" />
+			</attributions>
+		</node>
+		<node group="0" label="Anchorite Reliquary" positionY="1969.83" positionX="2794.7" shape="arch-large" symbol="coffin" image="https://i.imgur.com/VEmAydj.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[A small burial chamber for anchorites is located here. The anchorites resting here are members of some small significance to religious orders in service of Ezra. Most who are buried here are not locals to Celerity or Raine, and instead hidden away in this drow village, far from the controversial churnings in Anchor and safe from descecration or destruction by those who may be their rivals or enemies.
+
+        Helzig Pejon is likely the most famous name among the dead here. Saint Pejon, as he is known to his most endearing admirers and adherents, is not officially canonized by the Church and there remains significant controversy surrounding the movement to canonize him. St. Pejon is an Erudite and a lifelong missionary who spends most of his later life among orcs in Griven, traveling with displaced orcish tribes, providing healing to sick and wounded orcs during the Houndspar Offensive, and organizing formal education through a school he founds in a confluence of villages located in the foothills of the Oi. St. Pejon is captured and brutalized by orcs, in a situation resulting from an unfortunate misunderstanding among local tribes. When Reconciliation is finally underway as a state mandate, Dinu Dobrescu dedicates the effort in St. Pejon's honor. The campaign to canonize Helzig Pejon is one of the formal goals of Reconciliation.
+
+        ![Bright Blade](https://i.imgur.com/Fh9eZhc.jpg)
+				## Bright Blade
+        Not much is known of the Bright Blade, the so-called sunblade wielded by Ezra, a deity worshipped by those who call themselves anchorites. The Lady is often depicted as a lovely, dark haired beauty and anchorites consider themselves personal emissaries of their deity. Yakov Dilisnya, founder of the Church is said to have carried the Bright Blade after it was granted to him by the Lady herself.
+
+        A piece of this relic, the hilt and gem on its pommel, is said to be stowed away in the safe obscurity of Raine.
+
+        ![Illumene](https://i.imgur.com/tI0hIB7.jpg)
+				## Illumene
+        Some theorize that the relic sword hilt of Raine could not be the Bright Blade, since Ezra's weapon is not written to have ever been broken or destroyed. There are written historical accounts of an anchorite crusader who wields a sword named Illumene, the fate of which may better match the description of the relic. Demetra Syrilla's weapon is a darkfyre blade, constructed of a special supercooled plasma-like material found in deep space, in the inner proximity of the lattice structure of a crystal sphere. Illumene is carved out of a single massive slab of darkfyre, which is used to smith a second sword. Illumene's twin is named Twilight Tempest, and wielded by a death knight named Niratheil Magtheridon.
+
+        Syrilla and Magtheridon are said to have met on a field of battle, in single combat. In the ensuing melee, Twilight Tempest shatters Illumene's blade and Demetra Syrilla is beheaded.
+
+        ![Syrilla's Hand](https://i.imgur.com/4XW30HS.jpg)
+				## Syrilla's Hand
+        Another Ezran relic, Demetra Syrilla's ghoulish hand is embalmed and preserved, and wrapped in patterned, hallowed cloth. It is written that when Demetra Syrilla fights Niratheil Magtheridon in single combat, the death knight puts her sword hand in a grip as cold as ice, crushing the gauntlet protecting the hand, and forcing her to wield Illumene in her off hand. Syrilla's sword hand is ghouled and the skin is bloodless and cracked.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Marko Djurdjevic &amp; Geral Parel" url="https://www.artstation.com/sixmorevodka" />
+				<attribution name="Satine Zillah" url="https://www.artstation.com/satinezillah" />
+				<attribution name="Matthew Wilcox" url="https://www.artstation.com/uzarran" />
+				<attribution name="Eugene Tan" url="https://www.artstation.com/chernos" />
+			</attributions>
+		</node>
+		<node group="0" label="Secret Shrine" positionY="924.7" positionX="1611.21" shape="circle-large" symbol="ancient-columns" image="https://i.imgur.com/MnDlib4.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[A spacious underground expanse opens up out of seemingly nowhere. The secret shrine is not connected to the rest of the tunnels beneath Raine. A 100 by 100-foot den stretches out eastward. Columns rise up 50 feet to support a thick, stone ceiling. The eastward extremity of the den devolves from a stone edifice into a myriad roots and rocks and packed mulch. The roots form the base of old trees which stretch their long canopies out over Celerity. The densely intertwined mass of forest undergrowth is too thick even for naturally burrowing creatures.
+
+        At its west end the den opens up into a stark, undecorated worship chamber of massive proportions, with a 300-foot high stone roof and a collosal statue of Numina, the nocturnal goddess.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Mike Boyadzhyan" url="https://www.artstation.com/mike_boyadzhyan" />
+			</attributions>
+		</node>
+		<node group="0" label="Statue of Numina" positionY="1500" positionX="1835" shape="pin-large" symbol="sickle" image="https://i.imgur.com/JQ1vR6z.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[A worn statue of Numina, the nocturnal goddess, stands with her head turned upward, her eyes hidden beneath a veil. The translucent veil is intricately carved to hint at the outline of her jaw, and her mouth which twists into a silent scream. The ends of her hair are frayed, as if shorn by a knife edge, and small, slimy tentacles spill out from her mouth. In one arm is a sickle with a chipped and notched blade. The statue stands alone in the dark, towering over the enclosed space of the secret shrine.
+
+        Numina is the goddess of darkness, of eclipses, and blindness. She is the protector of nocturnal predators and those who are permanently maimed or disease-ridden or those forsaken by magic.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Corey McGill" url="https://www.artstation.com/necroxiu" />
+			</attributions>
+		</node>
+		<node group="0" label="Teleportation Circle" positionY="781.35" positionX="2157.38" shape="pin-large" symbol="magic-gate" image="https://i.imgur.com/ZdAsQZj.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[An old *teleportation circle* is surrounded on four sides by iron golems. The golems are flanked by two juggernauts. Use of the *teleportation circle* requires a secret phrase to be spoken to disable the golems and juggernauts from attacking anyone who steps through.
+
+        The golems and juggernauts each regains all its hit points at nudnight, even if it is completely destroyed.]]>
+			</sidebar>
+		</node>
+		<node group="0" label="Permanent Gate" positionY="562.97" positionX="1605.5" shape="pin-large" symbol="brute" image="https://i.imgur.com/xYsMvYD.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[A circular niche in the wall stands in the shape of an inverted sarcophagus. The niche is carved out a single unbroken piece of obsidian and runes in Elvish are carved along its inside surface.
+
+        This niche functions as a *gate* spell once per week for any elf who purposely presents the material components for the spell.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Michele Giorgi" url="https://www.artstation.com/michelegiorgi" />
+			</attributions>
+		</node>
+		<node group="1" label="Raine" positionY="5222.51" positionX="2602.64" shape="circle-large" symbol="home-lg" staticLabel="true" />
+		<node group="1" label="Arena Interior" positionY="5828.24" positionX="1543.86" shape="circle-large" symbol="coliseum" staticLabel="true" />
+		<node group="1" label="Arena Upper Gallery" positionY="5831.24" positionX="2203.22" shape="circle-large" symbol="theater-curtains" staticLabel="true" />
+		<node group="1" label="Training Pits" positionY="3198.51" positionX="406.28" shape="circle-large" symbol="ra-spiked-mace" image="https://i.imgur.com/usr5434.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Wide double doors open into a maze of torchlit hallways which lead to cramped dormitories for slaves, performers, and gladiators. Beyond the living quarters training rooms and gymnasiums can be found, some the size of the larger dormitories and others open up into domed amphitheater-like rooms with training equipment, wooden weapons. Furthest into this section of the tunnels there are kitchens with ovens, grills, pantries. Some have exhaust pipes that connect to the surface. but the outlets are secured by iron bars.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Adrian Sallusti" url="https://www.artstation.com/tathalan" />
+			</attributions>
+		</node>
+		<node group="1" label="Understadium Shrine" positionY="1935.36" positionX="827.33" shape="circle-large" symbol="tree-branch" image="https://i.imgur.com/QyQhuFz.jpg" staticLabel="true">
+			<sidebar>
+				<![CDATA[Stairs lead down into a nocturnal garden with a hexagonal star shaped fountain, and bioluminescent aesthetic fungus gardens. Double doors at the bottom of the long spiraling staircase open up into what first appears as a storeroom.
+
+        The underground space is a shrine of an old religion dedicated to Erana, lesser goddess of  wilderness and animals of Carcosa. The shrine is no longer is use as such, and beds and makeshift facilities for temporary residence are set up. Boxes of supplies for the village are stacked up by the walls.
+
+        A ten-foot tall statue of Erana gazes over the extent of the shrine, twigs, leaves, and roots covering her bare skin. Birds are perched along her arms that are outstretched like branches. A small pair of horns protrude from her forehead, easily overlooked. Erana's hair covers part of her face. Closer inspection of the statue will reveal a second figure, mounted on Erana's back, as if she is carrying them. The second figure is also a woman, her arm wrapped lovingly around Erana's neck and torso, and her face is all but hidden by her companion's hair. More prominent horns can be found on the second figure's head if the statue is physically inspected. There is a sense of affection between the two figures, as if they are sisters. The second figure has a spider's body, in the manner of a drider.
+
+        What seems to be a faded *teleportation circle* is etched into the floor. The central motif of the circle is an eye peering into the room.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Renflower Grapx" url="https://www.facebook.com/Renflowergrapx" />
+			</attributions>
+		</node>
+		<node group="2" label="Spikes II" id="spikes-level-4-shrine" positionY="2167.09" positionX="1155.02" shape="diamond-large" symbol="spiky-pit" image="https://i.imgur.com/CkLK4AK.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 6-10, moderate threat).*
+
+        __Trigger.__ When a creature walks through the trip wire, wooden, stone, or metal spikes lunge towards the triggering creature from the floor, the walls, or the ceiling.
+
+        __Effect.__ The triggering creature and any creatures in the area of the spikes must make a DC 19 Dexterity saving throw or take 5 (1d10) piercing damage and each incurs a wound. At the start of each of the wounded creature's turns, it takes 2 (1d4) necrotic damage for each time it has taken a wound, and it can then make a DC 19 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 19 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+
+        __Countermeasures.__ A successful DC 23 Intelligence (Investigation) check reveals the presence of the spikes and the trip wire, without triggering the trap. A successful DC 19 Dexterity (Sleight of Hand) check disables the trip wire. An unsuccessful check to disable the trap results in 3 (1d6) piercing damage, but does not result in other special damage. This trap resets itself at the end of the triggering creature's turn, after it is triggered.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Polysquid Studios" url="https://www.artstation.com/polysquid" />
+			</attributions>
+		</node>
+		<node group="2" label="Lightning Trap II" id="lightning-trap-level-4-shrine" positionY="1967.78" positionX="947.45" shape="diamond-large" symbol="dragon-breath" image="./images/5seasons/info/raine_stadium_tunnels/dungeon_raine_stadium_tunnels_fire_trap_Roger Salvany particules-foc-unreal-editor-2021-05-13-11-01-14.webp" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Magical trap (level 6-10, dangerous threat).*
+
+        __Trigger.__ When 15 or more pounds of pressure are placed on this trap's pressure plate, causing lightning to erupt from a valve in the floor or the ceiling. The valve could be concealed in anything, the wall, a statue, or a mosaic.
+
+        __Effect.__ When triggered, the valve releases a 20-foot-radius, ceiling-to-floor-high cylinder of lightning. The cylinder spreads around corners. Each creature in the area must make a DC 19 Dexterity saving throw. A creature takes 28 (8d6) lightning damage on a failed saving throw, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 23 Intelligence (Investigation) check reveals the pressure plate, as well as the presence of ash and faint burn marks in the area. A successful DC 19 Dexterity (Sleight of Hand) check disables the pressure plate, and a check with a total of 9 or lower triggers the trap. This trap resets itself at the start of the next round, after it is triggered. This trap resets itself 9 (2d8) times before it requires hands-on maintenance and repair.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Roger Salvany" url="https://www.artstation.com/pistis" />
+			</attributions>
+		</node>
+		<node group="2" label="Brazier III" id="brazier-level-4-shrine" positionY="2484.71" positionX="1595.08" shape="diamond-large" symbol="dragon-breath" image="https://i.imgur.com/XE5K40k.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Magical trap (level 6-10, dangerous threat).*
+
+        __Trigger.__ When a creature walks through the trip wire, a gout of fire is released from a nearby statue or brazier. The statue can be of anything, including a dragon or a wizard casting a spell.
+
+        __Effect.__ When triggered, the statue or brazier releases a 20-foot cone of fire. The cone spreads around corners. Each creature in the area must make a DC 21 Dexterity saving throw. A creature takes 33 (6d10) fire damage on a failed saving throw, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 27 Intelligence (Investigation) check reveals the trip wire, as well as faint scorch marks on the floor and walls. A successful DC 23 Dexterity (Sleight of Hand) check disables the trip wire, and a check with a total of 13 or lower triggers the trap. This trap resets itself at the start of the next round, after it is triggered. This trap resets itself 9 (2d8) times before it requires hands-on maintenance and repair.]]>
+			</sidebar>
+		</node>
+		<node group="2" label="Arrow Trap III" id="arrow-trap-level-7" positionY="597.82" positionX="2154.09" shape="diamond-large" symbol="headshot" image="https://i.imgur.com/UBB2Kum.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 6-10, dangerous threat).*
+
+        The arrow trap is a favorite of kobolds and other creatures that rely on traps to defend their lairs. It typically consists of a trip wire strung across a hallway or to a pressure plate, and connected to a pair of hidden heavy crossbows. The crossbows are aimed to fire down the hallway at anyone who disturbs the trip wire or pressure plate.
+
+        __Trigger.__ When 15 or more pounds of pressure are placed on this trap's pressure plate, the trap is triggered.
+
+        __Effect.__ The trap makes three attacks against the triggering creature, or any creature in a space adjacent to the triggering creature within 5 feet. Ranged Weapon Attack +11 to hit, three attacks; Hit: 6 (1d12) piercing damage on a hit. Any creature taking piercing damage from an arrow must also make a DC 19 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. This attack can't gain advantage or disadvantage.
+
+        __Countermeasures.__ A successful DC 27 Intelligence (Investigation) check reveals the pressure plate. A successful DC 23 Dexterity (Sleight of Hand) check disables the pressure plate, and a check with a total of 13 or lower triggers the trap. This trap resets itself at the start of the next round, after it is triggered. This trap resets itself 5 (2d4) times before it requires hands-on maintenance and repair.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Vince Russell" url="https://www.artstation.com/vincerussell" />
+			</attributions>
+		</node>
+		<node group="3" label="Secret Door" id="secret-door-backstage" positionY="4663.6" positionX="681.12" shape="pin-large" symbol="dungeon" image="https://i.imgur.com/fPJB5BT.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[A successful DC 15 Wisdom (Perception) or Intelligence (Investigation) check reveals the location of this secret door.
+
+        This door leads to some tunnels connected to catacombs beneath Raine.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Lip Comarella" url="https://www.artstation.com/lipcomarella" />
+			</attributions>
+		</node>
+		<node group="4" label="Spyglass I" positionY="5890.67" positionX="1684.67" shape="diamond-large" symbol="spyglass" image="https://i.imgur.com/Lm1Gra2.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 1-5, moderate threat).*
+
+        __Trigger.__ When a creature places their eye on the looking glass to peer through, a retention ring dislodges itself in the ocular chamber of the spyglass, and a spring loaded dagger stabs the viewer in the eye.
+
+        __Effect.__ The triggering creature must make a DC 17 Dexterity saving throw or take 4 (1d8) piercing damage and loss of function in an eye. A triggering creature taking piercing damage from the needle must also make a DC 15 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 19 Intelligence (Investigation) check reveals the needle without triggering the trap, but only if a character inspects the spyglass. A successful DC 15 Dexterity (Sleight of Hand) check disables the needle. An unsuccessful check to disable the trap results in 2 (1d4) piercing damage, but does not result in the loss of an eye or other special damage. This trap resets itself in 1d3 rounds at the start of the round, after it is triggered.]]>
+			</sidebar>
+		</node>
+		<node group="4" label="Cleaver I" id="cleaver-understadium" positionY="5624.67" positionX="1897.33" shape="diamond-large" symbol="cleaver" image="https://i.imgur.com/3HYHzO3.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 1-5, moderate threat).*
+
+        __Trigger.__ When 20 or more pounds of pressure are placed on this trap's pressure plate, a circular, serrated sawblade flies in a guided path along a concealed metal rail, injuring anyone present.
+
+        __Effect.__ The trap makes one attack against the triggering creature. Melee Weapon Attack +9 to hit; Hit: 6 (1d12) slashing damage on a hit. This attack can't gain advantage or disadvantage. For a wounded creature each foot of movement costs 1 extra foot (2 extra feet in difficult terrain). At the end of each of the wounded creature's turns, it can make a DC 17 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+
+        __Countermeasures.__ A successful DC 19 Intelligence (Investigation) check reveals the presence of the cleaver and the pressure plate, without triggering the trap. A successful DC 15 Dexterity (Sleight of Hand) check disables the pressure plate. An unsuccessful check to disable the trap results in 4 (1d8) piercing damage, but does not result in other special damage, and does not trigger the trap. This trap resets itself at the start of the next round, after it is triggered.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Polysquid Studios" url="https://www.artstation.com/polysquid" />
+			</attributions>
+		</node>
+		<node group="4" label="Rolling Sphere I" id="rolling-sphere-level-2" positionY="4670.79" positionX="1990.28" shape="diamond-large" symbol="boulder-dash" image="https://i.imgur.com/4jy42Th.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Complex trap (level 1-5, deadly threat).*
+
+        __Trigger.__ When a creature walks through the trip wire, a hidden trapdoor opens, releasing a 20-foot-diameter rolling sphere of solid stone. The sphere drops from a height or rolls down a specially constructed incline with grooves to control the path of the round, rolling stone. The sphere has a straight-direction movement rate of 60 feet.
+
+        __Effect.__ Any creature in the sphere's path must make a DC 17 Strength saving throw, provided there is an adjacent, unoocupied space within 5 feet available for moving out of the path of the boulder. If no adjacent, unoccupied space is available, the saving throw automatically fails. On a failed save, a creature takes 27 (5d10) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. Objects that block the boulder, such as a conjured wall, take maximum damage from the impact.
+
+        __Speed Kills.__ On its first turn of initiative, the sphere automatically has surprise and acts first. After its first turn, the sphere gains speed, represented by its damage increasing by 11 (2d10). While its damage is 55 (10d10) or greater, it acts on initiative count 20 and 10.
+
+        __Stop the Sphere.__ Stopping the sphere is the easiest way to disrupt the trap. A *wall of force* can do so easily, as can any object placed in its path that has enough hit points to absorb damage from the sphere without being destroyed.
+
+        __Immutable Form.__ The sphere is immune to any spell or effect that would alter its form.
+
+        __Countermeasures.__ A successful DC 19 Intelligence (Investigation) check reveals the presence of the sphere and the trip wire, without triggering the trap. Three successful DC 15 Dexterity (Sleight of Hand) checks disables the trip wire, and a check with a total of 5 or lower triggers the trap. This trap resets itself in 1 minute at the start of the round, once it is triggered. This trap resets itself 1d3 times before it requires hands-on maintenance and repair.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Niklas Wistedt" url="https://www.wistedt.net/" />
+			</attributions>
+		</node>
+		<node group="4" label="Brown Mold II" id="brown-mold-level-2" positionY="4433.27" positionX="2358.78" shape="diamond-large" symbol="chanterelles" image="https://i.imgur.com/DAmLcRm.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Hazard.*
+
+        Brown mold feeds on warmth, drawing heat from anything around it. The patch of brown mold covers a 40-foot square, and may be disguised or concealed.
+
+        __Effect.__ When a creature moves to within 5 feet of the mold for the first time on a turn or starts its turn there, it must make a DC 19 Constitution saving throw, taking 27 (5d10) cold damage on a failed save, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 23 Wisdom (Perception) or Intelligence (Investigation) check detects an almost-imperceptible frigid temperature in close proximity to the brown mold, but does not trigger the patch. Brown mold is immune to fire, and any source of fire brought within 5 feet of a patch causes it to instantly expand outward in the direction of the fire, covering a 10-foot-square area (with the source of the fire at the center of that area). A patch of brown mold exposed to an effect that deals cold damage is instantly destroyed. Brown mold regrows up to a 10-foot-square patch in 1 hour.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Roman Sachnow" url="https://www.artstation.com/romeckart" />
+			</attributions>
+		</node>
+		<node group="4" label="Spiked Pit II" id="spiked-pit-level-2" positionY="4245.29" positionX="2670.86" shape="diamond-large" symbol="spiky-pit" image="https://i.imgur.com/qsm7UMr.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Mechanical trap (level 6-10, dangerous threat).*
+
+        __Trigger.__  When a creature steps on the section of floor that forms the pit's cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is 20 feet deep.
+
+        __Effect.__ The triggering creature and any creatures in the area of the spikes must make a DC 19 Dexterity saving throw or fall into the pit taking 16 (3d10) piercing damage from the spikes, and 7 (2d6) bludgeoning damage from falling. Any creature taking piercing damage from the spikes must also make a DC 17 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 23 Intelligence (Investigation) check discerns an absence of foot traffic over the section of floor that forms the pit's cover and confirms that the trapped section of floor is actually the cover of a pit. Once the pit trap is detected, a successful DC 19 Dexterity (Sleight of Hand) check ensures that an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. A check with a total of 9 or lower triggers the trap. The cover can also be magically held shut using the *arcane lock* spell or similar magic. This trap resets itself at the start of the next round, after it is triggered.]]>
+			</sidebar>
+		</node>
+		<node group="4" label="Spikes II" id="spikes-level-2" positionY="4275.3" positionX="2447.93" shape="diamond-large" symbol="spiky-pit" image="https://i.imgur.com/CkLK4AK.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 6-10, moderate threat).*
+
+        __Trigger.__ When 15 or more pounds of pressure are placed on this trap's pressure plate, wooden, stone, or metal spikes lunge towards the triggering creature from the floor, the walls, or the ceiling.
+
+        __Effect.__ The triggering creature and any creatures in the area of the spikes must make a DC 19 Dexterity saving throw or take 5 (1d10) piercing damage and each incurs a wound. At the start of each of the wounded creature's turns, it takes 2 (1d4) necrotic damage for each time it has taken a wound, and it can then make a DC 19 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 19 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+
+        __Countermeasures.__ A successful DC 23 Intelligence (Investigation) check reveals the presence of the spikes and the pressure plate, without triggering the trap. A successful DC 19 Dexterity (Sleight of Hand) check disables the pressure plate. An unsuccessful check to disable the trap results in 3 (1d6) piercing damage, but does not result in other special damage. This trap resets itself at the end of the triggering creature's turn, after it is triggered.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Polysquid Studios" url="https://www.artstation.com/polysquid" />
+			</attributions>
+		</node>
+		<node group="4" label="Glyph of Warding" id="glyph-of-warding-backstage" positionY="4760.9" positionX="1469.97" shape="diamond-large" symbol="broken-tablet" image="https://i.imgur.com/9SarCSv.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Magical trap (level 1-5, dangerous threat).*
+
+        __Trigger.__ The spellcaster decides what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph.
+
+        The spellcaster can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. The spellcaster can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
+
+        __Effect.__ When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a DC 15 Dexterity saving throw. A creature takes 22 (5d8) lightning damage on a failed saving throw, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 15 Intelligence (Investigation) or Intelligence (Arcana) check reveals the glyph without triggering the trap, but a character could still trigger the glyph through its triggering mechanism. A successful DC 11 Dexterity (Sleight of Hand) or Intelligence (Arcana) check temporarily disables the glyph for 1 minute, and a check with a total of 5 or lower triggers the spell. Once a glyph is triggered, this spell ends.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Svetlin Velinov" url="https://www.deviantart.com/velinov" />
+			</attributions>
+		</node>
+		<node group="4" label="Brown Mold I" id="brown-mold-backstage" positionY="4587.19" positionX="1295.77" shape="diamond-large" symbol="chanterelles" image="https://i.imgur.com/DAmLcRm.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Hazard.*
+
+        Brown mold feeds on warmth, drawing heat from anything around it. The patch of brown mold covers a 50-foot square, and may be disguised or concealed.
+
+        __Effect.__ When a creature moves to within 5 feet of the mold for the first time on a turn or starts its turn there, it must make a DC 17 Constitution saving throw, taking 27 (5d10) cold damage on a failed save, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 19 Wisdom (Perception) or Intelligence (Investigation) check detects an almost-imperceptible frigid temperature in close proximity to the brown mold, but does not trigger the patch. Brown mold is immune to fire, and any source of fire brought within 5 feet of a patch causes it to instantly expand outward in the direction of the fire, covering a 10-foot-square area (with the source of the fire at the center of that area). A patch of brown mold exposed to an effect that deals cold damage is instantly destroyed. Brown mold regrows up to a 10-foot-square patch in 1 hour.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Roman Sachnow" url="https://www.artstation.com/romeckart" />
+			</attributions>
+		</node>
+		<node group="4" label="Arrow Trap I" id="arrow-trap-backstage" positionY="4399.49" positionX="927.86" shape="diamond-large" symbol="headshot" image="https://i.imgur.com/UBB2Kum.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 1-5, dangerous threat).*
+
+        The arrow trap is a favorite of kobolds and other creatures that rely on traps to defend their lairs. It typically consists of a trip wire strung across a hallway or to a pressure plate, and connected to a pair of hidden heavy crossbows. The crossbows are aimed to fire down the hallway at anyone who disturbs the trip wire or pressure plate.
+
+        __Trigger.__ When a creature walks through the trip wire, the trap is triggered.
+
+        __Effect.__ The trap makes two attacks against the triggering creature, or any creature in a space adjacent to the triggering creature within 5 feet. Ranged Weapon Attack +9 to hit, two attacks; Hit: 6 (1d12) piercing damage on a hit. This attack can't gain advantage or disadvantage.
+
+        __Countermeasures.__ A successful DC 19 Intelligence (Investigation) check reveals the trip wire. A successful DC 15 Dexterity (Sleight of Hand) check disables the trip wire, and a check with a total of 5 or lower triggers the trap. This trap resets itself at the start of the next round, after it is triggered. This trap resets itself 5 (2d4) times before it requires hands-on maintenance and repair.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Vince Russell" url="https://www.artstation.com/vincerussell" />
+			</attributions>
+		</node>
+		<node group="4" label="Glyph of Warding IV" id="glyph-of-warding-level-5" positionY="2637.61" positionX="3495.96" shape="diamond-large" symbol="broken-tablet" image="https://i.imgur.com/fClT1wO.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Magical trap (level 11-15, dangerous threat).*
+
+        __Trigger.__ The spellcaster decides what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph.
+
+        The spellcaster can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. The spellcaster can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
+
+        __Effect.__ When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a DC 23 Dexterity saving throw. A creature takes 45 (10d8) cold damage on a failed saving throw, or half as much damage on a successful one.
+
+        __Countermeasures.__ A successful DC 31 Intelligence (Investigation) or Intelligence (Arcana) check reveals the glyph without triggering the trap, but a character could still trigger the glyph through its triggering mechanism. A successful DC 27 Dexterity (Sleight of Hand) or Intelligence (Arcana) check temporarily disables the glyph for 1 minute, and a check with a total of 17 or lower triggers the spell. Once a glyph is triggered, this spell ends.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Alpha Eoh" url="https://www.artstation.com/alphaeoh" />
+			</attributions>
+		</node>
+		<node group="4" label="Poison Needle Trap I" id="poison-needle-level-6-mausoleum" positionY="1795.37" positionX="3154.21" shape="diamond-large" symbol="lock-spy" image="https://i.imgur.com/eRz833E.jpg" staticLabel="false">
+			<sidebar>
+				<![CDATA[*Simple trap (level 1-5, dangerous threat).*
+
+        A tiny, poisoned needle hidden in a lock is a good way to discourage thieves from plundering a hoard. Such a trap is usually put in a chest or in the door to a treasure chamber.
+
+        __Trigger.__ Anyone attempting to pick or open the lock triggers the trap.
+
+        __Effect.__ The triggering creature must make a DC 15 Constitution saving throw. On a failed save, the creature takes 17 (5d6) poison damage and is poisoned for 10 minutes. While poisoned in this way, the creature is paralyzed. On a successful save, the creature takes half as much damage and isn't poisoned.
+
+        __Countermeasures.__ A successful DC 19 Intelligence (Investigation) check reveals the needle without triggering the trap, but only if a character inspects the lock. A successful DC 15 Dexterity (Sleight of Hand) check disables the needle, and a check with a total of 5 or lower triggers the trap. This trap does not reset itself once triggered.]]>
+			</sidebar>
+			<attributions>
+				<attribution name="Art Dryukov" url="https://www.artstation.com/son" />
+			</attributions>
+		</node>
+	</nodes>
+	<paths>
+		<path group="4" route="Rolling Sphere I level 2" style="normal dashed" decoration="arrow">
+			<waypoint label="Rolling Sphere I level 2 start 1" waypoint="true" positionY="4670.79" positionX="1990.28" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Rolling Sphere I level 2 start 2" waypoint="true" positionY="4645.04" positionX="1990.28" shape="none" symbol="" staticLabel="false" />
+			<waypoint label="Rolling Sphere I (drop)" id="rolling-sphere-level-2-end" waypoint="true" positionY="4165.79" positionX="2799.39" shape="diamond-small" symbol="boulder-dash" staticLabel="false">
+				<popup>
+					<![CDATA[Boulder deposits into a pit here.]]>
+				</popup>
+			</waypoint>
+		</path>
+		<path group="4" route="Curvetest" startY="2904.75" startX="2137.57" endY="2576.79" endX="2436.24" style="normal dashed" decoration="arrow" />
+	</paths>
+</data>
