@@ -8,8 +8,8 @@
 		mapAssetHeight="6412"
 		mapMaxZoomMultiplier="1.5"
 		unitName="ft"
-		unitsAcross="100"
-		unitsPerGrid="5"
+		unitsAcross="200"
+		unitsPerGrid="10"
 		gridType="square"
     gridColor="red"
 		gridOpacity="0.4"
@@ -89,9 +89,9 @@
 		</node>
 		<node group="0" label="Secret Shrine" positionY="924.7" positionX="1611.21" shape="circle-large" symbol="ancient-columns" image="https://i.imgur.com/MnDlib4.jpg" staticLabel="true">
 			<sidebar>
-				<![CDATA[A spacious underground expanse opens up out of seemingly nowhere. The secret shrine is not connected to the rest of the tunnels beneath Raine. A 100 by 100-foot den stretches out eastward. Columns rise up 50 feet to support a thick, stone ceiling. The eastward extremity of the den devolves from a stone edifice into a myriad roots and rocks and packed mulch. The roots form the base of old trees which stretch their long canopies out over Celerity. The densely intertwined mass of forest undergrowth is too thick even for naturally burrowing creatures.
+				<![CDATA[A spacious underground expanse opens up out of seemingly nowhere. The secret shrine is not connected to the rest of the tunnels beneath Raine. A 50 by 50-foot den stretches out eastward. Columns rise up 15 feet to support a thick, stone ceiling. The eastward extremity of the den devolves from a stone edifice into a myriad roots and rocks and packed mulch. The roots form the base of old trees which stretch their long canopies out over Celerity. The densely intertwined mass of forest undergrowth is too thick even for naturally burrowing creatures.
 
-        At its west end the den opens up into a stark, undecorated worship chamber of massive proportions, with a 300-foot high stone roof and a collosal statue of Numina, the nocturnal goddess.]]>
+        At its west end the den opens up into a stark, undecorated worship chamber of massive proportions, with a 150-foot high stone roof and a collosal 20-foot-tall statue of Numina, the nocturnal goddess.]]>
 			</sidebar>
 			<attributions>
 				<attribution name="Mike Boyadzhyan" url="https://www.artstation.com/mike_boyadzhyan" />
@@ -141,7 +141,7 @@
 
         The underground space is a shrine of an old religion dedicated to Erana, lesser goddess of  wilderness and animals of Carcosa. The shrine is no longer is use as such, and beds and makeshift facilities for temporary residence are set up. Boxes of supplies for the village are stacked up by the walls.
 
-        A ten-foot tall statue of Erana gazes over the extent of the shrine, twigs, leaves, and roots covering her bare skin. Birds are perched along her arms that are outstretched like branches. A small pair of horns protrude from her forehead, easily overlooked. Erana's hair covers part of her face. Closer inspection of the statue will reveal a second figure, mounted on Erana's back, as if she is carrying them. The second figure is also a woman, her arm wrapped lovingly around Erana's neck and torso, and her face is all but hidden by her companion's hair. More prominent horns can be found on the second figure's head if the statue is physically inspected. There is a sense of affection between the two figures, as if they are sisters. The second figure has a spider's body, in the manner of a drider.
+        A 10-foot tall statue of Erana gazes over the extent of the shrine, twigs, leaves, and roots covering her bare skin. Birds are perched along her arms that are outstretched like branches. A small pair of horns protrude from her forehead, easily overlooked. Erana's hair covers part of her face. Closer inspection of the statue will reveal a second figure, mounted on Erana's back, as if she is carrying them. The second figure is also a woman, her arm wrapped lovingly around Erana's neck and torso, and her face is all but hidden by her companion's hair. More prominent horns can be found on the second figure's head if the statue is physically inspected. There is a sense of affection between the two figures, as if they are sisters. The second figure has a spider's body, in the manner of a drider.
 
         What seems to be a faded *teleportation circle* is etched into the floor. The central motif of the circle is an eye peering into the room.]]>
 			</sidebar>
@@ -243,7 +243,7 @@
 			<sidebar>
 				<![CDATA[*Complex trap (level 1-5, deadly threat).*
 
-        __Trigger.__ When a creature walks through the trip wire, a hidden trapdoor opens, releasing a 20-foot-diameter rolling sphere of solid stone. The sphere drops from a height or rolls down a specially constructed incline with grooves to control the path of the round, rolling stone. The sphere has a straight-direction movement rate of 60 feet.
+        __Trigger.__ When a creature walks through the trip wire, a hidden trapdoor opens, releasing a 10-foot-diameter rolling sphere of solid stone. The sphere drops from a height or rolls down a specially constructed incline with grooves to control the path of the round, rolling stone. The sphere has a straight-direction movement rate of 60 feet.
 
         __Effect.__ Any creature in the sphere's path must make a DC 17 Strength saving throw, provided there is an adjacent, unoocupied space within 5 feet available for moving out of the path of the boulder. If no adjacent, unoccupied space is available, the saving throw automatically fails. On a failed save, a creature takes 27 (5d10) bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone. Objects that block the boulder, such as a conjured wall, take maximum damage from the impact.
 
